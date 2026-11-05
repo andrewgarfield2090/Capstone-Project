@@ -1,0 +1,1001 @@
+customer_id,customer_name,segment,gender,age,join_date,email,loyalty_tier,is_active
+C00001,Aarav Sharma,Consumer,F,-4,2019-01-01,,Silver,Y
+C00002,Vivaan Sharma,Corporate,M,21,18/01/2019,vivaan.sharma.2@example.com,Bronze,N
+C00003,Aditya Sharma,Small Business,Other,58,02-04-2019,aditya.sharma.3@example.com,Bronze,Yes
+C00004,Vihaan Sharma,Consumer,F,54,21 Feb 2019,vihaan.sharma.4@example.com,Gold,1
+C00005,Arjun Sharma,Corporate,M,31,2019-03-10,arjun.sharma.5@example.com,Gold,Active
+C00006,Sai Sharma,Small Business,Other,35,27/03/2019,sai.sharma.6@example.com,Gold,Y
+C00007,Reyansh Sharma,Consumer,F,38,04-13-2019,reyansh.sharma.7@example.com,Bronze,N
+C00008,Ayaan Sharma,Corporate,M,38,30 Apr 2019,ayaan.sharma.8@example.com,Silver,Yes
+C00009,Krishna Sharma,Small Business,Other,43,2019-05-17,krishna.sharma.9@example.com,Silver,1
+C00010,Ishaan Sharma,Consumer,F,19,03/06/2019,ishaan.sharma.10@example.com,Silver,Active
+C00011,Ananya Sharma,Corporate,M,19,06-20-2019,ananya.sharma.11@example.com,Gold,Y
+C00012,Diya Sharma,Small Business,Other,54,07 Jul 2019,,Bronze,N
+C00013,Aadhya Sharma,Consumer,F,27,2019-07-24,aadhya.sharma.13@example.com,Bronze,Yes
+C00014,Saanvi Sharma,Corporate,M,29,10/08/2019,saanvi.sharma.14@example.com,Silver,1
+C00015,Pari Sharma,Small Business,Other,49,08-27-2019,pari.sharma.15@example.com,Bronze,Active
+C00016,Ira Sharma,Consumer,F,47,13 Sep 2019,ira.sharma.16@example.com,Silver,Y
+C00017,Myra Sharma,Corporate,M,40,2019-09-30,myra.sharma.17@example.com,Gold,N
+C00018,Riya Sharma,Small Business,Other,31,17/10/2019,riya.sharma.18@example.com,Bronze,Yes
+C00019,Meera Sharma,Consumer,F,60,11-03-2019,meera.sharma.19@example.com,Gold,1
+C00020,Kavya Sharma,Corporate,M,62,20 Nov 2019,kavya.sharma.20@example.com,Bronze,Active
+C00021,Kabir Sharma,Small Business,Other,41,2019-12-07,kabir.sharma.21@example.com,Gold,Y
+C00022,Anika Sharma,Consumer,F,18,24/12/2019,anika.sharma.22@example.com,Gold,N
+C00023,Rohan Sharma,Corporate,M,39,01-10-2020,,Silver,Yes
+C00024,Tara Sharma,Small Business,Other,54,27 Jan 2020,tara.sharma.24@example.com,Bronze,1
+C00025,Dev Sharma,Consumer,F,32,2020-02-13,dev.sharma.25@example.com,Silver,Active
+C00026,Nisha Sharma,Corporate,M,71,01/03/2020,nisha.sharma.26@example.com,Silver,Y
+C00027,Mira Sharma,Small Business,Other,74,03-18-2020,mira.sharma.27@example.com,Silver,N
+C00028,Ishita Sharma,Consumer,F,42,04 Apr 2020,ishita.sharma.28@example.com,Bronze,Yes
+C00029,Neil Sharma,Corporate,M,61,2020-04-21,neil.sharma.29@example.com,Bronze,1
+C00030,Aditi Sharma,Small Business,Other,30,08/05/2020,aditi.sharma.30@example.com,Silver,Active
+C00031,Aarav Patel,Consumer,F,23,05-25-2020,aarav.patel.31@example.com,Silver,Y
+C00032,Vivaan Patel,Corporate,M,68,11 Jun 2020,vivaan.patel.32@example.com,Bronze,N
+C00033,Aditya Patel,Small Business,Other,48,2020-06-28,aditya.patel.33@example.com,Bronze,Yes
+C00034,Vihaan Patel,Consumer,F,56,15/07/2020,,Bronze,1
+C00035,Arjun Patel,Corporate,M,71,08-01-2020,arjun.patel.35@example.com,Gold,Active
+C00036,Sai Patel,Small Business,Other,24,18 Aug 2020,sai.patel.36@example.com,Silver,Y
+C00037,Reyansh Patel,Consumer,F,45,2020-09-04,reyansh.patel.37@example.com,Silver,N
+C00038,Ayaan Patel,Corporate,M,54,21/09/2020,ayaan.patel.38@example.com,Bronze,Yes
+C00039,Krishna Patel,Small Business,Other,34,10-08-2020,krishna.patel.39@example.com,Silver,1
+C00040,Ishaan Patel,Consumer,F,64,25 Oct 2020,ishaan.patel.40@example.com,Silver,Active
+C00041,Ananya Patel,Corporate,M,35,2020-11-11,ananya.patel.41@example.com,Silver,Y
+C00042,Diya Patel,Small Business,Other,42,28/11/2020,diya.patel.42@example.com,Silver,N
+C00043,Aadhya Patel,Consumer,F,49,12-15-2020,aadhya.patel.43@example.com,Bronze,Yes
+C00044,Saanvi Patel,Corporate,M,69,01 Jan 2021,saanvi.patel.44@example.com,Bronze,1
+C00045,Pari Patel,Small Business,Other,27,2021-01-18,,Silver,Active
+C00046,Ira Patel,Consumer,F,26,04/02/2021,ira.patel.46@example.com,Silver,Y
+C00047,Myra Patel,Corporate,M,63,02-21-2021,myra.patel.47@example.com,Silver,N
+C00048,Riya Patel,Small Business,Other,55,10 Mar 2021,riya.patel.48@example.com,Bronze,Yes
+C00049,Meera Patel,Consumer,F,38,2021-03-27,meera.patel.49@example.com,Bronze,1
+C00050,Kavya Patel,Corporate,M,43,13/04/2021,kavya.patel.50@example.com,Bronze,Active
+C00051,Kabir Patel,Small Business,Other,48,04-30-2021,kabir.patel.51@example.com,Silver,Y
+C00052,Anika Patel,Consumer,F,72,17 May 2021,anika.patel.52@example.com,Gold,N
+C00053,Rohan Patel,Corporate,M,46,2021-06-03,rohan.patel.53@example.com,Bronze,Yes
+C00054,Tara Patel,Small Business,Other,55,20/06/2021,tara.patel.54@example.com,Silver,1
+C00055,Dev Patel,Consumer,F,22,07-07-2021,dev.patel.55@example.com,Gold,Active
+C00056,Nisha Patel,Corporate,M,42,24 Jul 2021,,Silver,Y
+C00057,Mira Patel,Small Business,Other,41,2021-08-10,mira.patel.57@example.com,Silver,N
+C00058,Ishita Patel,Consumer,F,67,27/08/2021,ishita.patel.58@example.com,Bronze,Yes
+C00059,Neil Patel,Corporate,M,26,09-13-2021,neil.patel.59@example.com,Bronze,1
+C00060,Aditi Patel,Small Business,Other,32,30 Sep 2021,aditi.patel.60@example.com,Silver,Active
+C00061,Aarav Verma,Consumer,F,62,2021-10-17,aarav.verma.61@example.com,Gold,Y
+C00062,Vivaan Verma,Corporate,M,21,03/11/2021,vivaan.verma.62@example.com,Silver,N
+C00063,Aditya Verma,Small Business,Other,70,11-20-2021,aditya.verma.63@example.com,Bronze,Yes
+C00064,Vihaan Verma,Consumer,F,55,07 Dec 2021,vihaan.verma.64@example.com,Bronze,1
+C00065,Arjun Verma,Corporate,M,33,2021-12-24,arjun.verma.65@example.com,Silver,Active
+C00066,Sai Verma,Small Business,Other,41,10/01/2022,sai.verma.66@example.com,Bronze,Y
+C00067,Reyansh Verma,Consumer,F,21,01-27-2022,,Gold,N
+C00068,Ayaan Verma,Corporate,M,29,13 Feb 2022,ayaan.verma.68@example.com,Bronze,Yes
+C00069,Krishna Verma,Small Business,Other,19,2022-03-02,krishna.verma.69@example.com,Bronze,1
+C00070,Ishaan Verma,Consumer,F,31,19/03/2022,ishaan.verma.70@example.com,Gold,Active
+C00071,Ananya Verma,Corporate,M,59,04-05-2022,ananya.verma.71@example.com,Silver,Y
+C00072,Diya Verma,Small Business,Other,19,22 Apr 2022,diya.verma.72@example.com,Bronze,N
+C00073,Aadhya Verma,Consumer,F,69,2022-05-09,aadhya.verma.73@example.com,Silver,Yes
+C00074,Saanvi Verma,Corporate,M,52,26/05/2022,saanvi.verma.74@example.com,Silver,1
+C00075,Pari Verma,Small Business,Other,57,06-12-2022,pari.verma.75@example.com,Silver,Active
+C00076,Ira Verma,Consumer,F,43,29 Jun 2022,ira.verma.76@example.com,Gold,Y
+C00077,Myra Verma,Corporate,M,20,2022-07-16,myra.verma.77@example.com,Gold,N
+C00078,Riya Verma,Small Business,Other,47,02/08/2022,,Bronze,Yes
+C00079,Meera Verma,Consumer,F,41,08-19-2022,meera.verma.79@example.com,Gold,1
+C00080,Kavya Verma,Corporate,M,54,05 Sep 2022,kavya.verma.80@example.com,Bronze,Active
+C00081,Kabir Verma,Small Business,Other,63,2022-09-22,kabir.verma.81@example.com,Bronze,Y
+C00082,Anika Verma,Consumer,F,75,09/10/2022,anika.verma.82@example.com,Gold,N
+C00083,Rohan Verma,Corporate,M,29,10-26-2022,rohan.verma.83@example.com,Bronze,Yes
+C00084,Tara Verma,Small Business,Other,33,12 Nov 2022,tara.verma.84@example.com,Bronze,1
+C00085,Dev Verma,Consumer,F,68,2022-11-29,dev.verma.85@example.com,Silver,Active
+C00086,Nisha Verma,Corporate,M,73,16/12/2022,nisha.verma.86@example.com,Silver,Y
+C00087,Mira Verma,Small Business,Other,36,01-02-2023,mira.verma.87@example.com,Silver,N
+C00088,Ishita Verma,Consumer,F,25,19 Jan 2023,ishita.verma.88@example.com,Bronze,Yes
+C00089,Neil Verma,Corporate,M,28,2023-02-05,,Silver,1
+C00090,Aditi Verma,Small Business,Other,0,22/02/2023,aditi.verma.90@example.com,Bronze,Active
+C00091,Aarav Gupta,Consumer,F,22,03-11-2023,aarav.gupta.91@example.com,Gold,Y
+C00092,Vivaan Gupta,Corporate,M,33,28 Mar 2023,vivaan.gupta.92@example.com,Silver,N
+C00093,Aditya Gupta,Small Business,Other,73,2023-04-14,aditya.gupta.93@example.com,Silver,Yes
+C00094,Vihaan Gupta,Consumer,F,44,01/05/2023,vihaan.gupta.94@example.com,Bronze,1
+C00095,Arjun Gupta,Corporate,M,48,05-18-2023,arjun.gupta.95@example.com,Bronze,Active
+C00096,Sai Gupta,Small Business,Other,75,04 Jun 2023,sai.gupta.96@example.com,Silver,Y
+C00097,Reyansh Gupta,Consumer,F,70,2023-06-21,reyansh.gupta.97@example.com,Silver,N
+C00098,Ayaan Gupta,Corporate,M,-4,08/07/2023,ayaan.gupta.98@example.com,Bronze,Yes
+C00099,Krishna Gupta,Small Business,Other,47,07-25-2023,krishna.gupta.99@example.com,Bronze,1
+C00100,Ishaan Gupta,Consumer,F,18,11 Aug 2023,,Silver,Active
+C00101,Ananya Gupta,Corporate,M,41,2023-08-28,ananya.gupta.101@example.com,Bronze,Y
+C00102,Diya Gupta,Small Business,Other,18,14/09/2023,diya.gupta.102@example.com,Bronze,N
+C00103,Aadhya Gupta,Consumer,F,58,10-01-2023,aadhya.gupta.103@example.com,Silver,Yes
+C00104,Saanvi Gupta,Corporate,M,48,18 Oct 2023,saanvi.gupta.104@example.com,Bronze,1
+C00105,Pari Gupta,Small Business,Other,32,2023-11-04,pari.gupta.105@example.com,Bronze,Active
+C00106,Ira Gupta,Consumer,F,39,21/11/2023,ira.gupta.106@example.com,Silver,Y
+C00107,Myra Gupta,Corporate,M,69,12-08-2023,myra.gupta.107@example.com,Bronze,N
+C00108,Riya Gupta,Small Business,Other,54,25 Dec 2023,riya.gupta.108@example.com,Bronze,Yes
+C00109,Meera Gupta,Consumer,F,22,2024-01-11,meera.gupta.109@example.com,Silver,1
+C00110,Kavya Gupta,Corporate,M,75,28/01/2024,kavya.gupta.110@example.com,Bronze,Active
+C00111,Kabir Gupta,Small Business,Other,18,02-14-2024,,Silver,Y
+C00112,Anika Gupta,Consumer,F,48,02 Mar 2024,anika.gupta.112@example.com,Bronze,N
+C00113,Rohan Gupta,Corporate,M,28,2024-03-19,rohan.gupta.113@example.com,Silver,Yes
+C00114,Tara Gupta,Small Business,Other,30,05/04/2024,tara.gupta.114@example.com,Bronze,1
+C00115,Dev Gupta,Consumer,F,47,04-22-2024,dev.gupta.115@example.com,Silver,Active
+C00116,Nisha Gupta,Corporate,M,27,09 May 2024,nisha.gupta.116@example.com,Silver,Y
+C00117,Mira Gupta,Small Business,Other,71,2024-05-26,mira.gupta.117@example.com,Bronze,N
+C00118,Ishita Gupta,Consumer,F,74,12/06/2024,ishita.gupta.118@example.com,Bronze,Yes
+C00119,Neil Gupta,Corporate,M,73,06-29-2024,neil.gupta.119@example.com,Silver,1
+C00120,Aditi Gupta,Small Business,Other,35,16 Jul 2024,aditi.gupta.120@example.com,Silver,Active
+C00121,Aarav Shah,Consumer,F,20,2024-08-02,aarav.shah.121@example.com,Bronze,Y
+C00122,Vivaan Shah,Corporate,M,33,19/08/2024,,Silver,N
+C00123,Aditya Shah,Small Business,Other,51,09-05-2024,aditya.shah.123@example.com,Gold,Yes
+C00124,Vihaan Shah,Consumer,F,63,22 Sep 2024,vihaan.shah.124@example.com,Bronze,1
+C00125,Arjun Shah,Corporate,M,68,2024-10-09,arjun.shah.125@example.com,Bronze,Active
+C00126,Sai Shah,Small Business,Other,43,26/10/2024,sai.shah.126@example.com,Bronze,Y
+C00127,Reyansh Shah,Consumer,F,25,11-12-2024,reyansh.shah.127@example.com,Bronze,N
+C00128,Ayaan Shah,Corporate,M,71,29 Nov 2024,ayaan.shah.128@example.com,Bronze,Yes
+C00129,Krishna Shah,Small Business,Other,58,2024-12-16,krishna.shah.129@example.com,Silver,1
+C00130,Ishaan Shah,Consumer,F,58,02/01/2025,ishaan.shah.130@example.com,Gold,Active
+C00131,Ananya Shah,Corporate,M,54,01-19-2025,ananya.shah.131@example.com,Bronze,Y
+C00132,Diya Shah,Small Business,Other,42,05 Feb 2025,diya.shah.132@example.com,Bronze,N
+C00133,Aadhya Shah,Consumer,F,55,2025-02-22,,Silver,Yes
+C00134,Saanvi Shah,Corporate,M,34,11/03/2025,saanvi.shah.134@example.com,Bronze,1
+C00135,Pari Shah,Small Business,Other,71,03-28-2025,pari.shah.135@example.com,Gold,Active
+C00136,Ira Shah,Consumer,F,33,14 Apr 2025,ira.shah.136@example.com,Bronze,Y
+C00137,Myra Shah,Corporate,M,39,2025-05-01,myra.shah.137@example.com,Silver,N
+C00138,Riya Shah,Small Business,Other,31,18/05/2025,riya.shah.138@example.com,Silver,Yes
+C00139,Meera Shah,Consumer,F,46,06-04-2025,meera.shah.139@example.com,Bronze,1
+C00140,Kavya Shah,Corporate,M,26,21 Jun 2025,kavya.shah.140@example.com,Bronze,Active
+C00141,Kabir Shah,Small Business,Other,51,2025-07-08,kabir.shah.141@example.com,Bronze,Y
+C00142,Anika Shah,Consumer,F,60,25/07/2025,anika.shah.142@example.com,Bronze,N
+C00143,Rohan Shah,Corporate,M,45,08-11-2025,rohan.shah.143@example.com,Bronze,Yes
+C00144,Tara Shah,Small Business,Other,42,28 Aug 2025,,Bronze,1
+C00145,Dev Shah,Consumer,F,43,2025-09-14,dev.shah.145@example.com,Bronze,Active
+C00146,Nisha Shah,Corporate,M,21,01/10/2025,nisha.shah.146@example.com,Silver,Y
+C00147,Mira Shah,Small Business,Other,60,10-18-2025,mira.shah.147@example.com,Bronze,N
+C00148,Ishita Shah,Consumer,F,28,04 Nov 2025,ishita.shah.148@example.com,Bronze,Yes
+C00149,Neil Shah,Corporate,M,56,2019-01-17,neil.shah.149@example.com,Silver,1
+C00150,Aditi Shah,Small Business,Other,50,03/02/2019,aditi.shah.150@example.com,Gold,Active
+C00151,Aarav Kulkarni,Consumer,F,58,02-20-2019,aarav.kulkarni.151@example.com,Gold,Y
+C00152,Vivaan Kulkarni,Corporate,M,57,09 Mar 2019,vivaan.kulkarni.152@example.com,Gold,N
+C00153,Aditya Kulkarni,Small Business,Other,37,2019-03-26,aditya.kulkarni.153@example.com,Bronze,Yes
+C00154,Vihaan Kulkarni,Consumer,F,61,12/04/2019,vihaan.kulkarni.154@example.com,Bronze,1
+C00155,Arjun Kulkarni,Corporate,M,66,04-29-2019,,Gold,Active
+C00156,Sai Kulkarni,Small Business,Other,51,16 May 2019,sai.kulkarni.156@example.com,Silver,Y
+C00157,Reyansh Kulkarni,Consumer,F,52,2019-06-02,reyansh.kulkarni.157@example.com,Bronze,N
+C00158,Ayaan Kulkarni,Corporate,M,19,19/06/2019,ayaan.kulkarni.158@example.com,Bronze,Yes
+C00159,Krishna Kulkarni,Small Business,Other,37,07-06-2019,krishna.kulkarni.159@example.com,Bronze,1
+C00160,Ishaan Kulkarni,Consumer,F,47,23 Jul 2019,ishaan.kulkarni.160@example.com,Silver,Active
+C00161,Ananya Kulkarni,Corporate,M,53,2019-08-09,ananya.kulkarni.161@example.com,Gold,Y
+C00162,Diya Kulkarni,Small Business,Other,70,26/08/2019,diya.kulkarni.162@example.com,Bronze,N
+C00163,Aadhya Kulkarni,Consumer,F,21,09-12-2019,aadhya.kulkarni.163@example.com,Silver,Yes
+C00164,Saanvi Kulkarni,Corporate,M,18,29 Sep 2019,saanvi.kulkarni.164@example.com,Bronze,1
+C00165,Pari Kulkarni,Small Business,Other,54,2019-10-16,pari.kulkarni.165@example.com,Bronze,Active
+C00166,Ira Kulkarni,Consumer,F,41,02/11/2019,,Bronze,Y
+C00167,Myra Kulkarni,Corporate,M,24,11-19-2019,myra.kulkarni.167@example.com,Bronze,N
+C00168,Riya Kulkarni,Small Business,Other,33,06 Dec 2019,riya.kulkarni.168@example.com,Bronze,Yes
+C00169,Meera Kulkarni,Consumer,F,64,2019-12-23,meera.kulkarni.169@example.com,Bronze,1
+C00170,Kavya Kulkarni,Corporate,M,24,09/01/2020,kavya.kulkarni.170@example.com,Gold,Active
+C00171,Kabir Kulkarni,Small Business,Other,18,01-26-2020,kabir.kulkarni.171@example.com,Silver,Y
+C00172,Anika Kulkarni,Consumer,F,59,12 Feb 2020,anika.kulkarni.172@example.com,Silver,N
+C00173,Rohan Kulkarni,Corporate,M,23,2020-02-29,rohan.kulkarni.173@example.com,Bronze,Yes
+C00174,Tara Kulkarni,Small Business,Other,36,17/03/2020,tara.kulkarni.174@example.com,Bronze,1
+C00175,Dev Kulkarni,Consumer,F,67,04-03-2020,dev.kulkarni.175@example.com,Silver,Active
+C00176,Nisha Kulkarni,Corporate,M,56,20 Apr 2020,nisha.kulkarni.176@example.com,Bronze,Y
+C00177,Mira Kulkarni,Small Business,Other,43,2020-05-07,,Silver,N
+C00178,Ishita Kulkarni,Consumer,F,54,24/05/2020,ishita.kulkarni.178@example.com,Bronze,Yes
+C00179,Neil Kulkarni,Corporate,M,0,06-10-2020,neil.kulkarni.179@example.com,Silver,1
+C00180,Aditi Kulkarni,Small Business,Other,22,27 Jun 2020,aditi.kulkarni.180@example.com,Gold,Active
+C00181,Aarav Joshi,Consumer,F,41,2020-07-14,aarav.joshi.181@example.com,Silver,Y
+C00182,Vivaan Joshi,Corporate,M,71,31/07/2020,vivaan.joshi.182@example.com,Silver,N
+C00183,Aditya Joshi,Small Business,Other,26,08-17-2020,aditya.joshi.183@example.com,Bronze,Yes
+C00184,Vihaan Joshi,Consumer,F,26,03 Sep 2020,vihaan.joshi.184@example.com,Bronze,1
+C00185,Arjun Joshi,Corporate,M,43,2020-09-20,arjun.joshi.185@example.com,Bronze,Active
+C00186,Sai Joshi,Small Business,Other,54,07/10/2020,sai.joshi.186@example.com,Silver,Y
+C00187,Reyansh Joshi,Consumer,F,52,10-24-2020,reyansh.joshi.187@example.com,Gold,N
+C00188,Ayaan Joshi,Corporate,M,53,10 Nov 2020,,Bronze,Yes
+C00189,Krishna Joshi,Small Business,Other,47,2020-11-27,krishna.joshi.189@example.com,Gold,1
+C00190,Ishaan Joshi,Consumer,F,53,14/12/2020,ishaan.joshi.190@example.com,Gold,Active
+C00191,Ananya Joshi,Corporate,M,61,12-31-2020,ananya.joshi.191@example.com,Silver,Y
+C00192,Diya Joshi,Small Business,Other,27,17 Jan 2021,diya.joshi.192@example.com,Bronze,N
+C00193,Aadhya Joshi,Consumer,F,26,2021-02-03,aadhya.joshi.193@example.com,Silver,Yes
+C00194,Saanvi Joshi,Corporate,M,52,20/02/2021,saanvi.joshi.194@example.com,Silver,1
+C00195,Pari Joshi,Small Business,Other,-4,03-09-2021,pari.joshi.195@example.com,Bronze,Active
+C00196,Ira Joshi,Consumer,F,23,26 Mar 2021,ira.joshi.196@example.com,Bronze,Y
+C00197,Myra Joshi,Corporate,M,37,2021-04-12,myra.joshi.197@example.com,Bronze,N
+C00198,Riya Joshi,Small Business,Other,68,29/04/2021,riya.joshi.198@example.com,Bronze,Yes
+C00199,Meera Joshi,Consumer,F,51,05-16-2021,,Silver,1
+C00200,Kavya Joshi,Corporate,M,59,02 Jun 2021,kavya.joshi.200@example.com,Silver,Active
+C00201,Kabir Joshi,Small Business,Other,40,2021-06-19,kabir.joshi.201@example.com,Bronze,Y
+C00202,Anika Joshi,Consumer,F,22,06/07/2021,anika.joshi.202@example.com,Silver,N
+C00203,Rohan Joshi,Corporate,M,39,07-23-2021,rohan.joshi.203@example.com,Bronze,Yes
+C00204,Tara Joshi,Small Business,Other,26,09 Aug 2021,tara.joshi.204@example.com,Silver,1
+C00205,Dev Joshi,Consumer,F,66,2021-08-26,dev.joshi.205@example.com,Bronze,Active
+C00206,Nisha Joshi,Corporate,M,45,12/09/2021,nisha.joshi.206@example.com,Bronze,Y
+C00207,Mira Joshi,Small Business,Other,73,09-29-2021,mira.joshi.207@example.com,Gold,N
+C00208,Ishita Joshi,Consumer,F,58,16 Oct 2021,ishita.joshi.208@example.com,Bronze,Yes
+C00209,Neil Joshi,Corporate,M,26,2021-11-02,neil.joshi.209@example.com,Gold,1
+C00210,Aditi Joshi,Small Business,Other,32,19/11/2021,,Bronze,Active
+C00211,Aarav Reddy,Consumer,F,35,12-06-2021,aarav.reddy.211@example.com,Bronze,Y
+C00212,Vivaan Reddy,Corporate,M,20,23 Dec 2021,vivaan.reddy.212@example.com,Silver,N
+C00213,Aditya Reddy,Small Business,Other,26,2022-01-09,aditya.reddy.213@example.com,Silver,Yes
+C00214,Vihaan Reddy,Consumer,F,74,26/01/2022,vihaan.reddy.214@example.com,Bronze,1
+C00215,Arjun Reddy,Corporate,M,41,02-12-2022,arjun.reddy.215@example.com,Silver,Active
+C00216,Sai Reddy,Small Business,Other,18,01 Mar 2022,sai.reddy.216@example.com,Silver,Y
+C00217,Reyansh Reddy,Consumer,F,51,2022-03-18,reyansh.reddy.217@example.com,Silver,N
+C00218,Ayaan Reddy,Corporate,M,63,04/04/2022,ayaan.reddy.218@example.com,Bronze,Yes
+C00219,Krishna Reddy,Small Business,Other,75,04-21-2022,krishna.reddy.219@example.com,Silver,1
+C00220,Ishaan Reddy,Consumer,F,23,08 May 2022,ishaan.reddy.220@example.com,Bronze,Active
+C00221,Ananya Reddy,Corporate,M,67,2022-05-25,,Silver,Y
+C00222,Diya Reddy,Small Business,Other,24,11/06/2022,diya.reddy.222@example.com,Bronze,N
+C00223,Aadhya Reddy,Consumer,F,52,06-28-2022,aadhya.reddy.223@example.com,Bronze,Yes
+C00224,Saanvi Reddy,Corporate,M,39,15 Jul 2022,saanvi.reddy.224@example.com,Bronze,1
+C00225,Pari Reddy,Small Business,Other,58,2022-08-01,pari.reddy.225@example.com,Bronze,Active
+C00226,Ira Reddy,Consumer,F,47,18/08/2022,ira.reddy.226@example.com,Bronze,Y
+C00227,Myra Reddy,Corporate,M,68,09-04-2022,myra.reddy.227@example.com,Bronze,N
+C00228,Riya Reddy,Small Business,Other,69,21 Sep 2022,riya.reddy.228@example.com,Gold,Yes
+C00229,Meera Reddy,Consumer,F,30,2022-10-08,meera.reddy.229@example.com,Silver,1
+C00230,Kavya Reddy,Corporate,M,53,25/10/2022,kavya.reddy.230@example.com,Silver,Active
+C00231,Kabir Reddy,Small Business,Other,33,11-11-2022,kabir.reddy.231@example.com,Gold,Y
+C00232,Anika Reddy,Consumer,F,62,28 Nov 2022,,Bronze,N
+C00233,Rohan Reddy,Corporate,M,45,2022-12-15,rohan.reddy.233@example.com,Silver,Yes
+C00234,Tara Reddy,Small Business,Other,32,01/01/2023,tara.reddy.234@example.com,Bronze,1
+C00235,Dev Reddy,Consumer,F,43,01-18-2023,dev.reddy.235@example.com,Gold,Active
+C00236,Nisha Reddy,Corporate,M,32,04 Feb 2023,nisha.reddy.236@example.com,Bronze,Y
+C00237,Mira Reddy,Small Business,Other,28,2023-02-21,mira.reddy.237@example.com,Bronze,N
+C00238,Ishita Reddy,Consumer,F,55,10/03/2023,ishita.reddy.238@example.com,Silver,Yes
+C00239,Neil Reddy,Corporate,M,18,03-27-2023,neil.reddy.239@example.com,Gold,1
+C00240,Aditi Reddy,Small Business,Other,31,13 Apr 2023,aditi.reddy.240@example.com,Bronze,Active
+C00241,Aarav Iyer,Consumer,F,54,2023-04-30,aarav.iyer.241@example.com,Silver,Y
+C00242,Vivaan Iyer,Corporate,M,40,17/05/2023,vivaan.iyer.242@example.com,Bronze,N
+C00243,Aditya Iyer,Small Business,Other,39,06-03-2023,,Gold,Yes
+C00244,Vihaan Iyer,Consumer,F,41,20 Jun 2023,vihaan.iyer.244@example.com,Bronze,1
+C00245,Arjun Iyer,Corporate,M,56,2023-07-07,arjun.iyer.245@example.com,Silver,Active
+C00246,Sai Iyer,Small Business,Other,19,24/07/2023,sai.iyer.246@example.com,Bronze,Y
+C00247,Reyansh Iyer,Consumer,F,71,08-10-2023,reyansh.iyer.247@example.com,Silver,N
+C00248,Ayaan Iyer,Corporate,M,26,27 Aug 2023,ayaan.iyer.248@example.com,Bronze,Yes
+C00249,Krishna Iyer,Small Business,Other,20,2023-09-13,krishna.iyer.249@example.com,Silver,1
+C00250,Ishaan Iyer,Consumer,F,68,30/09/2023,ishaan.iyer.250@example.com,Bronze,Active
+C00251,Ananya Iyer,Corporate,M,43,10-17-2023,ananya.iyer.251@example.com,Bronze,Y
+C00252,Diya Iyer,Small Business,Other,49,03 Nov 2023,diya.iyer.252@example.com,Gold,N
+C00253,Aadhya Iyer,Consumer,F,51,2023-11-20,aadhya.iyer.253@example.com,Gold,Yes
+C00254,Saanvi Iyer,Corporate,M,30,07/12/2023,,Silver,1
+C00255,Pari Iyer,Small Business,Other,42,12-24-2023,pari.iyer.255@example.com,Bronze,Active
+C00256,Ira Iyer,Consumer,F,63,10 Jan 2024,ira.iyer.256@example.com,Bronze,Y
+C00257,Myra Iyer,Corporate,M,18,2024-01-27,myra.iyer.257@example.com,Silver,N
+C00258,Riya Iyer,Small Business,Other,24,13/02/2024,riya.iyer.258@example.com,Gold,Yes
+C00259,Meera Iyer,Consumer,F,50,03-01-2024,meera.iyer.259@example.com,Bronze,1
+C00260,Kavya Iyer,Corporate,M,30,18 Mar 2024,kavya.iyer.260@example.com,Silver,Active
+C00261,Kabir Iyer,Small Business,Other,18,2024-04-04,kabir.iyer.261@example.com,Gold,Y
+C00262,Anika Iyer,Consumer,F,63,21/04/2024,anika.iyer.262@example.com,Silver,N
+C00263,Rohan Iyer,Corporate,M,63,05-08-2024,rohan.iyer.263@example.com,Silver,Yes
+C00264,Tara Iyer,Small Business,Other,73,25 May 2024,tara.iyer.264@example.com,Silver,1
+C00265,Dev Iyer,Consumer,F,39,2024-06-11,,Bronze,Active
+C00266,Nisha Iyer,Corporate,M,61,28/06/2024,nisha.iyer.266@example.com,Silver,Y
+C00267,Mira Iyer,Small Business,Other,62,07-15-2024,mira.iyer.267@example.com,Bronze,N
+C00268,Ishita Iyer,Consumer,F,0,01 Aug 2024,ishita.iyer.268@example.com,Bronze,Yes
+C00269,Neil Iyer,Corporate,M,24,2024-08-18,neil.iyer.269@example.com,Silver,1
+C00270,Aditi Iyer,Small Business,Other,35,04/09/2024,aditi.iyer.270@example.com,Silver,Active
+C00271,Aarav Das,Consumer,F,52,09-21-2024,aarav.das.271@example.com,Silver,Y
+C00272,Vivaan Das,Corporate,M,34,08 Oct 2024,vivaan.das.272@example.com,Bronze,N
+C00273,Aditya Das,Small Business,Other,60,2024-10-25,aditya.das.273@example.com,Gold,Yes
+C00274,Vihaan Das,Consumer,F,37,11/11/2024,vihaan.das.274@example.com,Silver,1
+C00275,Arjun Das,Corporate,M,21,11-28-2024,arjun.das.275@example.com,Gold,Active
+C00276,Sai Das,Small Business,Other,59,15 Dec 2024,,Silver,Y
+C00277,Reyansh Das,Consumer,F,18,2025-01-01,reyansh.das.277@example.com,Bronze,N
+C00278,Ayaan Das,Corporate,M,24,18/01/2025,ayaan.das.278@example.com,Bronze,Yes
+C00279,Krishna Das,Small Business,Other,44,02-04-2025,krishna.das.279@example.com,Bronze,1
+C00280,Ishaan Das,Consumer,F,39,21 Feb 2025,ishaan.das.280@example.com,Bronze,Active
+C00281,Ananya Das,Corporate,M,52,2025-03-10,ananya.das.281@example.com,Gold,Y
+C00282,Diya Das,Small Business,Other,54,27/03/2025,diya.das.282@example.com,Bronze,N
+C00283,Aadhya Das,Consumer,F,75,04-13-2025,aadhya.das.283@example.com,Silver,Yes
+C00284,Saanvi Das,Corporate,M,36,30 Apr 2025,saanvi.das.284@example.com,Silver,1
+C00285,Pari Das,Small Business,Other,66,2025-05-17,pari.das.285@example.com,Bronze,Active
+C00286,Ira Das,Consumer,F,28,03/06/2025,ira.das.286@example.com,Gold,Y
+C00287,Myra Das,Corporate,M,26,06-20-2025,,Bronze,N
+C00288,Riya Das,Small Business,Other,22,07 Jul 2025,riya.das.288@example.com,Bronze,Yes
+C00289,Meera Das,Consumer,F,75,2025-07-24,meera.das.289@example.com,Silver,1
+C00290,Kavya Das,Corporate,M,37,10/08/2025,kavya.das.290@example.com,Silver,Active
+C00291,Kabir Das,Small Business,Other,28,08-27-2025,kabir.das.291@example.com,Bronze,Y
+C00292,Anika Das,Consumer,F,-4,13 Sep 2025,anika.das.292@example.com,Silver,N
+C00293,Rohan Das,Corporate,M,50,2025-09-30,rohan.das.293@example.com,Silver,Yes
+C00294,Tara Das,Small Business,Other,20,17/10/2025,tara.das.294@example.com,Silver,1
+C00295,Dev Das,Consumer,F,38,11-03-2025,dev.das.295@example.com,Silver,Active
+C00296,Nisha Das,Corporate,M,29,16 Jan 2019,nisha.das.296@example.com,Bronze,Y
+C00297,Mira Das,Small Business,Other,40,2019-02-02,mira.das.297@example.com,Silver,N
+C00298,Ishita Das,Consumer,F,65,19/02/2019,,Silver,Yes
+C00299,Neil Das,Corporate,M,56,03-08-2019,neil.das.299@example.com,Bronze,1
+C00300,Aditi Das,Small Business,Other,72,25 Mar 2019,aditi.das.300@example.com,Bronze,Active
+C00301,Aarav Singh,Consumer,F,35,2019-04-11,aarav.singh.301@example.com,Gold,Y
+C00302,Vivaan Singh,Corporate,M,29,28/04/2019,vivaan.singh.302@example.com,Gold,N
+C00303,Aditya Singh,Small Business,Other,48,05-15-2019,aditya.singh.303@example.com,Silver,Yes
+C00304,Vihaan Singh,Consumer,F,41,01 Jun 2019,vihaan.singh.304@example.com,Bronze,1
+C00305,Arjun Singh,Corporate,M,22,2019-06-18,arjun.singh.305@example.com,Silver,Active
+C00306,Sai Singh,Small Business,Other,63,05/07/2019,sai.singh.306@example.com,Bronze,Y
+C00307,Reyansh Singh,Consumer,F,26,07-22-2019,reyansh.singh.307@example.com,Bronze,N
+C00308,Ayaan Singh,Corporate,M,27,08 Aug 2019,ayaan.singh.308@example.com,Bronze,Yes
+C00309,Krishna Singh,Small Business,Other,61,2019-08-25,,Silver,1
+C00310,Ishaan Singh,Consumer,F,70,11/09/2019,ishaan.singh.310@example.com,Silver,Active
+C00311,Ananya Singh,Corporate,M,72,09-28-2019,ananya.singh.311@example.com,Gold,Y
+C00312,Diya Singh,Small Business,Other,32,15 Oct 2019,diya.singh.312@example.com,Silver,N
+C00313,Aadhya Singh,Consumer,F,40,2019-11-01,aadhya.singh.313@example.com,Bronze,Yes
+C00314,Saanvi Singh,Corporate,M,64,18/11/2019,saanvi.singh.314@example.com,Bronze,1
+C00315,Pari Singh,Small Business,Other,74,12-05-2019,pari.singh.315@example.com,Silver,Active
+C00316,Ira Singh,Consumer,F,55,22 Dec 2019,ira.singh.316@example.com,Bronze,Y
+C00317,Myra Singh,Corporate,M,36,2020-01-08,myra.singh.317@example.com,Gold,N
+C00318,Riya Singh,Small Business,Other,69,25/01/2020,riya.singh.318@example.com,Silver,Yes
+C00319,Meera Singh,Consumer,F,27,02-11-2020,meera.singh.319@example.com,Bronze,1
+C00320,Kavya Singh,Corporate,M,62,28 Feb 2020,,Bronze,Active
+C00321,Kabir Singh,Small Business,Other,70,2020-03-16,kabir.singh.321@example.com,Bronze,Y
+C00322,Anika Singh,Consumer,F,26,02/04/2020,anika.singh.322@example.com,Gold,N
+C00323,Rohan Singh,Corporate,M,55,04-19-2020,rohan.singh.323@example.com,Bronze,Yes
+C00324,Tara Singh,Small Business,Other,44,06 May 2020,tara.singh.324@example.com,Bronze,1
+C00325,Dev Singh,Consumer,F,27,2020-05-23,dev.singh.325@example.com,Bronze,Active
+C00326,Nisha Singh,Corporate,M,65,09/06/2020,nisha.singh.326@example.com,Bronze,Y
+C00327,Mira Singh,Small Business,Other,65,06-26-2020,mira.singh.327@example.com,Bronze,N
+C00328,Ishita Singh,Consumer,F,21,13 Jul 2020,ishita.singh.328@example.com,Bronze,Yes
+C00329,Neil Singh,Corporate,M,50,2020-07-30,neil.singh.329@example.com,Bronze,1
+C00330,Aditi Singh,Small Business,Other,29,16/08/2020,aditi.singh.330@example.com,Silver,Active
+C00331,Aarav Nair,Consumer,F,67,09-02-2020,,Silver,Y
+C00332,Vivaan Nair,Corporate,M,28,19 Sep 2020,vivaan.nair.332@example.com,Bronze,N
+C00333,Aditya Nair,Small Business,Other,32,2020-10-06,aditya.nair.333@example.com,Gold,Yes
+C00334,Vihaan Nair,Consumer,F,34,23/10/2020,vihaan.nair.334@example.com,Bronze,1
+C00335,Arjun Nair,Corporate,M,74,11-09-2020,arjun.nair.335@example.com,Silver,Active
+C00336,Sai Nair,Small Business,Other,28,26 Nov 2020,sai.nair.336@example.com,Bronze,Y
+C00337,Reyansh Nair,Consumer,F,63,2020-12-13,reyansh.nair.337@example.com,Bronze,N
+C00338,Ayaan Nair,Corporate,M,25,30/12/2020,ayaan.nair.338@example.com,Silver,Yes
+C00339,Krishna Nair,Small Business,Other,27,01-16-2021,krishna.nair.339@example.com,Bronze,1
+C00340,Ishaan Nair,Consumer,F,64,02 Feb 2021,ishaan.nair.340@example.com,Silver,Active
+C00341,Ananya Nair,Corporate,M,64,2021-02-19,ananya.nair.341@example.com,Bronze,Y
+C00342,Diya Nair,Small Business,Other,21,08/03/2021,,Silver,N
+C00343,Aadhya Nair,Consumer,F,54,03-25-2021,aadhya.nair.343@example.com,Bronze,Yes
+C00344,Saanvi Nair,Corporate,M,45,11 Apr 2021,saanvi.nair.344@example.com,Silver,1
+C00345,Pari Nair,Small Business,Other,57,2021-04-28,pari.nair.345@example.com,Gold,Active
+C00346,Ira Nair,Consumer,F,48,15/05/2021,ira.nair.346@example.com,Silver,Y
+C00347,Myra Nair,Corporate,M,31,06-01-2021,myra.nair.347@example.com,Silver,N
+C00348,Riya Nair,Small Business,Other,38,18 Jun 2021,riya.nair.348@example.com,Silver,Yes
+C00349,Meera Nair,Consumer,F,43,2021-07-05,meera.nair.349@example.com,Silver,1
+C00350,Kavya Nair,Corporate,M,28,22/07/2021,kavya.nair.350@example.com,Bronze,Active
+C00351,Kabir Nair,Small Business,Other,23,08-08-2021,kabir.nair.351@example.com,Silver,Y
+C00352,Anika Nair,Consumer,F,44,25 Aug 2021,anika.nair.352@example.com,Bronze,N
+C00353,Rohan Nair,Corporate,M,31,2021-09-11,,Gold,Yes
+C00354,Tara Nair,Small Business,Other,21,28/09/2021,tara.nair.354@example.com,Bronze,1
+C00355,Dev Nair,Consumer,F,32,10-15-2021,dev.nair.355@example.com,Silver,Active
+C00356,Nisha Nair,Corporate,M,71,01 Nov 2021,nisha.nair.356@example.com,Silver,Y
+C00357,Mira Nair,Small Business,Other,0,2021-11-18,mira.nair.357@example.com,Silver,N
+C00358,Ishita Nair,Consumer,F,57,05/12/2021,ishita.nair.358@example.com,Bronze,Yes
+C00359,Neil Nair,Corporate,M,75,12-22-2021,neil.nair.359@example.com,Bronze,1
+C00360,Aditi Nair,Small Business,Other,46,08 Jan 2022,aditi.nair.360@example.com,Bronze,Active
+C00361,Aarav Mehta,Consumer,F,26,2022-01-25,aarav.mehta.361@example.com,Silver,Y
+C00362,Vivaan Mehta,Corporate,M,69,11/02/2022,vivaan.mehta.362@example.com,Bronze,N
+C00363,Aditya Mehta,Small Business,Other,33,02-28-2022,aditya.mehta.363@example.com,Bronze,Yes
+C00364,Vihaan Mehta,Consumer,F,72,17 Mar 2022,,Silver,1
+C00365,Arjun Mehta,Corporate,M,37,2022-04-03,arjun.mehta.365@example.com,Silver,Active
+C00366,Sai Mehta,Small Business,Other,56,20/04/2022,sai.mehta.366@example.com,Bronze,Y
+C00367,Reyansh Mehta,Consumer,F,74,05-07-2022,reyansh.mehta.367@example.com,Gold,N
+C00368,Ayaan Mehta,Corporate,M,56,24 May 2022,ayaan.mehta.368@example.com,Silver,Yes
+C00369,Krishna Mehta,Small Business,Other,52,2022-06-10,krishna.mehta.369@example.com,Bronze,1
+C00370,Ishaan Mehta,Consumer,F,27,27/06/2022,ishaan.mehta.370@example.com,Silver,Active
+C00371,Ananya Mehta,Corporate,M,50,07-14-2022,ananya.mehta.371@example.com,Gold,Y
+C00372,Diya Mehta,Small Business,Other,25,31 Jul 2022,diya.mehta.372@example.com,Silver,N
+C00373,Aadhya Mehta,Consumer,F,60,2022-08-17,aadhya.mehta.373@example.com,Bronze,Yes
+C00374,Saanvi Mehta,Corporate,M,28,03/09/2022,saanvi.mehta.374@example.com,Bronze,1
+C00375,Pari Mehta,Small Business,Other,38,09-20-2022,,Bronze,Active
+C00376,Ira Mehta,Consumer,F,59,07 Oct 2022,ira.mehta.376@example.com,Gold,Y
+C00377,Myra Mehta,Corporate,M,62,2022-10-24,myra.mehta.377@example.com,Bronze,N
+C00378,Riya Mehta,Small Business,Other,65,10/11/2022,riya.mehta.378@example.com,Bronze,Yes
+C00379,Meera Mehta,Consumer,F,18,11-27-2022,meera.mehta.379@example.com,Bronze,1
+C00380,Kavya Mehta,Corporate,M,18,14 Dec 2022,kavya.mehta.380@example.com,Silver,Active
+C00381,Kabir Mehta,Small Business,Other,29,2022-12-31,kabir.mehta.381@example.com,Bronze,Y
+C00382,Anika Mehta,Consumer,F,67,17/01/2023,anika.mehta.382@example.com,Gold,N
+C00383,Rohan Mehta,Corporate,M,35,02-03-2023,rohan.mehta.383@example.com,Bronze,Yes
+C00384,Tara Mehta,Small Business,Other,29,20 Feb 2023,tara.mehta.384@example.com,Gold,1
+C00385,Dev Mehta,Consumer,F,55,2023-03-09,dev.mehta.385@example.com,Silver,Active
+C00386,Nisha Mehta,Corporate,M,33,26/03/2023,,Silver,Y
+C00387,Mira Mehta,Small Business,Other,61,04-12-2023,mira.mehta.387@example.com,Silver,N
+C00388,Ishita Mehta,Consumer,F,72,29 Apr 2023,ishita.mehta.388@example.com,Gold,Yes
+C00389,Neil Mehta,Corporate,M,-4,2023-05-16,neil.mehta.389@example.com,Bronze,1
+C00390,Aditi Mehta,Small Business,Other,18,02/06/2023,aditi.mehta.390@example.com,Bronze,Active
+C00391,Aarav Pawar,Consumer,F,32,06-19-2023,aarav.pawar.391@example.com,Gold,Y
+C00392,Vivaan Pawar,Corporate,M,66,06 Jul 2023,vivaan.pawar.392@example.com,Bronze,N
+C00393,Aditya Pawar,Small Business,Other,53,2023-07-23,aditya.pawar.393@example.com,Bronze,Yes
+C00394,Vihaan Pawar,Consumer,F,56,09/08/2023,vihaan.pawar.394@example.com,Bronze,1
+C00395,Arjun Pawar,Corporate,M,57,08-26-2023,arjun.pawar.395@example.com,Bronze,Active
+C00396,Sai Pawar,Small Business,Other,60,12 Sep 2023,sai.pawar.396@example.com,Silver,Y
+C00397,Reyansh Pawar,Consumer,F,63,2023-09-29,,Silver,N
+C00398,Ayaan Pawar,Corporate,M,33,16/10/2023,ayaan.pawar.398@example.com,Bronze,Yes
+C00399,Krishna Pawar,Small Business,Other,25,11-02-2023,krishna.pawar.399@example.com,Bronze,1
+C00400,Ishaan Pawar,Consumer,F,22,19 Nov 2023,ishaan.pawar.400@example.com,Gold,Active
+C00401,Ananya Pawar,Corporate,M,22,2023-12-06,ananya.pawar.401@example.com,Gold,Y
+C00402,Diya Pawar,Small Business,Other,28,23/12/2023,diya.pawar.402@example.com,Silver,N
+C00403,Aadhya Pawar,Consumer,F,39,01-09-2024,aadhya.pawar.403@example.com,Silver,Yes
+C00404,Saanvi Pawar,Corporate,M,73,26 Jan 2024,saanvi.pawar.404@example.com,Bronze,1
+C00405,Pari Pawar,Small Business,Other,60,2024-02-12,pari.pawar.405@example.com,Bronze,Active
+C00406,Ira Pawar,Consumer,F,68,29/02/2024,ira.pawar.406@example.com,Bronze,Y
+C00407,Myra Pawar,Corporate,M,37,03-17-2024,myra.pawar.407@example.com,Bronze,N
+C00408,Riya Pawar,Small Business,Other,27,03 Apr 2024,,Bronze,Yes
+C00409,Meera Pawar,Consumer,F,62,2024-04-20,meera.pawar.409@example.com,Bronze,1
+C00410,Kavya Pawar,Corporate,M,23,07/05/2024,kavya.pawar.410@example.com,Bronze,Active
+C00411,Kabir Pawar,Small Business,Other,57,05-24-2024,kabir.pawar.411@example.com,Silver,Y
+C00412,Anika Pawar,Consumer,F,38,10 Jun 2024,anika.pawar.412@example.com,Bronze,N
+C00413,Rohan Pawar,Corporate,M,33,2024-06-27,rohan.pawar.413@example.com,Silver,Yes
+C00414,Tara Pawar,Small Business,Other,40,14/07/2024,tara.pawar.414@example.com,Silver,1
+C00415,Dev Pawar,Consumer,F,30,07-31-2024,dev.pawar.415@example.com,Bronze,Active
+C00416,Nisha Pawar,Corporate,M,52,17 Aug 2024,nisha.pawar.416@example.com,Bronze,Y
+C00417,Mira Pawar,Small Business,Other,53,2024-09-03,mira.pawar.417@example.com,Bronze,N
+C00418,Ishita Pawar,Consumer,F,34,20/09/2024,ishita.pawar.418@example.com,Silver,Yes
+C00419,Neil Pawar,Corporate,M,34,10-07-2024,,Bronze,1
+C00420,Aditi Pawar,Small Business,Other,70,24 Oct 2024,aditi.pawar.420@example.com,Bronze,Active
+C00421,Aarav Khan,Consumer,F,48,2024-11-10,aarav.khan.421@example.com,Bronze,Y
+C00422,Vivaan Khan,Corporate,M,51,27/11/2024,vivaan.khan.422@example.com,Bronze,N
+C00423,Aditya Khan,Small Business,Other,54,12-14-2024,aditya.khan.423@example.com,Bronze,Yes
+C00424,Vihaan Khan,Consumer,F,63,31 Dec 2024,vihaan.khan.424@example.com,Silver,1
+C00425,Arjun Khan,Corporate,M,23,2025-01-17,arjun.khan.425@example.com,Bronze,Active
+C00426,Sai Khan,Small Business,Other,31,03/02/2025,sai.khan.426@example.com,Silver,Y
+C00427,Reyansh Khan,Consumer,F,68,02-20-2025,reyansh.khan.427@example.com,Silver,N
+C00428,Ayaan Khan,Corporate,M,63,09 Mar 2025,ayaan.khan.428@example.com,Silver,Yes
+C00429,Krishna Khan,Small Business,Other,18,2025-03-26,krishna.khan.429@example.com,Bronze,1
+C00430,Ishaan Khan,Consumer,F,47,12/04/2025,,Silver,Active
+C00431,Ananya Khan,Corporate,M,31,04-29-2025,ananya.khan.431@example.com,Silver,Y
+C00432,Diya Khan,Small Business,Other,71,16 May 2025,diya.khan.432@example.com,Bronze,N
+C00433,Aadhya Khan,Consumer,F,41,2025-06-02,aadhya.khan.433@example.com,Silver,Yes
+C00434,Saanvi Khan,Corporate,M,63,19/06/2025,saanvi.khan.434@example.com,Gold,1
+C00435,Pari Khan,Small Business,Other,26,07-06-2025,pari.khan.435@example.com,Bronze,Active
+C00436,Ira Khan,Consumer,F,46,23 Jul 2025,ira.khan.436@example.com,Silver,Y
+C00437,Myra Khan,Corporate,M,31,2025-08-09,myra.khan.437@example.com,Bronze,N
+C00438,Riya Khan,Small Business,Other,59,26/08/2025,riya.khan.438@example.com,Bronze,Yes
+C00439,Meera Khan,Consumer,F,37,09-12-2025,meera.khan.439@example.com,Bronze,1
+C00440,Kavya Khan,Corporate,M,60,29 Sep 2025,kavya.khan.440@example.com,Gold,Active
+C00441,Kabir Khan,Small Business,Other,69,2025-10-16,,Bronze,Y
+C00442,Anika Khan,Consumer,F,61,02/11/2025,anika.khan.442@example.com,Silver,N
+C00443,Rohan Khan,Corporate,M,32,01-15-2019,rohan.khan.443@example.com,Silver,Yes
+C00444,Tara Khan,Small Business,Other,50,01 Feb 2019,tara.khan.444@example.com,Bronze,1
+C00445,Dev Khan,Consumer,F,36,2019-02-18,dev.khan.445@example.com,Silver,Active
+C00446,Nisha Khan,Corporate,M,0,07/03/2019,nisha.khan.446@example.com,Bronze,Y
+C00447,Mira Khan,Small Business,Other,61,03-24-2019,mira.khan.447@example.com,Silver,N
+C00448,Ishita Khan,Consumer,F,57,10 Apr 2019,ishita.khan.448@example.com,Silver,Yes
+C00449,Neil Khan,Corporate,M,70,2019-04-27,neil.khan.449@example.com,Bronze,1
+C00450,Aditi Khan,Small Business,Other,23,14/05/2019,aditi.khan.450@example.com,Bronze,Active
+C00451,Aarav Rao,Consumer,F,20,05-31-2019,aarav.rao.451@example.com,Silver,Y
+C00452,Vivaan Rao,Corporate,M,74,17 Jun 2019,,Bronze,N
+C00453,Aditya Rao,Small Business,Other,65,2019-07-04,aditya.rao.453@example.com,Gold,Yes
+C00454,Vihaan Rao,Consumer,F,67,21/07/2019,vihaan.rao.454@example.com,Gold,1
+C00455,Arjun Rao,Corporate,M,40,08-07-2019,arjun.rao.455@example.com,Silver,Active
+C00456,Sai Rao,Small Business,Other,61,24 Aug 2019,sai.rao.456@example.com,Bronze,Y
+C00457,Reyansh Rao,Consumer,F,72,2019-09-10,reyansh.rao.457@example.com,Gold,N
+C00458,Ayaan Rao,Corporate,M,59,27/09/2019,ayaan.rao.458@example.com,Gold,Yes
+C00459,Krishna Rao,Small Business,Other,59,10-14-2019,krishna.rao.459@example.com,Gold,1
+C00460,Ishaan Rao,Consumer,F,19,31 Oct 2019,ishaan.rao.460@example.com,Bronze,Active
+C00461,Ananya Rao,Corporate,M,45,2019-11-17,ananya.rao.461@example.com,Bronze,Y
+C00462,Diya Rao,Small Business,Other,29,04/12/2019,diya.rao.462@example.com,Bronze,N
+C00463,Aadhya Rao,Consumer,F,39,12-21-2019,,Silver,Yes
+C00464,Saanvi Rao,Corporate,M,37,07 Jan 2020,saanvi.rao.464@example.com,Bronze,1
+C00465,Pari Rao,Small Business,Other,55,2020-01-24,pari.rao.465@example.com,Gold,Active
+C00466,Ira Rao,Consumer,F,33,10/02/2020,ira.rao.466@example.com,Bronze,Y
+C00467,Myra Rao,Corporate,M,25,02-27-2020,myra.rao.467@example.com,Bronze,N
+C00468,Riya Rao,Small Business,Other,33,15 Mar 2020,riya.rao.468@example.com,Silver,Yes
+C00469,Meera Rao,Consumer,F,50,2020-04-01,meera.rao.469@example.com,Silver,1
+C00470,Kavya Rao,Corporate,M,19,18/04/2020,kavya.rao.470@example.com,Bronze,Active
+C00471,Kabir Rao,Small Business,Other,64,05-05-2020,kabir.rao.471@example.com,Silver,Y
+C00472,Anika Rao,Consumer,F,27,22 May 2020,anika.rao.472@example.com,Bronze,N
+C00473,Rohan Rao,Corporate,M,72,2020-06-08,rohan.rao.473@example.com,Silver,Yes
+C00474,Tara Rao,Small Business,Other,51,25/06/2020,,Silver,1
+C00475,Dev Rao,Consumer,F,33,07-12-2020,dev.rao.475@example.com,Silver,Active
+C00476,Nisha Rao,Corporate,M,39,29 Jul 2020,nisha.rao.476@example.com,Silver,Y
+C00477,Mira Rao,Small Business,Other,31,2020-08-15,mira.rao.477@example.com,Silver,N
+C00478,Ishita Rao,Consumer,F,27,01/09/2020,ishita.rao.478@example.com,Bronze,Yes
+C00479,Neil Rao,Corporate,M,32,09-18-2020,neil.rao.479@example.com,Gold,1
+C00480,Aditi Rao,Small Business,Other,31,05 Oct 2020,aditi.rao.480@example.com,Silver,Active
+C00481,Aarav Bose,Consumer,F,52,2020-10-22,aarav.bose.481@example.com,Gold,Y
+C00482,Vivaan Bose,Corporate,M,64,08/11/2020,vivaan.bose.482@example.com,Bronze,N
+C00483,Aditya Bose,Small Business,Other,70,11-25-2020,aditya.bose.483@example.com,Bronze,Yes
+C00484,Vihaan Bose,Consumer,F,24,12 Dec 2020,vihaan.bose.484@example.com,Bronze,1
+C00485,Arjun Bose,Corporate,M,35,2020-12-29,,Bronze,Active
+C00486,Sai Bose,Small Business,Other,-4,15/01/2021,sai.bose.486@example.com,Bronze,Y
+C00487,Reyansh Bose,Consumer,F,72,02-01-2021,reyansh.bose.487@example.com,Silver,N
+C00488,Ayaan Bose,Corporate,M,63,18 Feb 2021,ayaan.bose.488@example.com,Silver,Yes
+C00489,Krishna Bose,Small Business,Other,66,2021-03-07,krishna.bose.489@example.com,Bronze,1
+C00490,Ishaan Bose,Consumer,F,30,24/03/2021,ishaan.bose.490@example.com,Silver,Active
+C00491,Ananya Bose,Corporate,M,43,04-10-2021,ananya.bose.491@example.com,Silver,Y
+C00492,Diya Bose,Small Business,Other,24,27 Apr 2021,diya.bose.492@example.com,Silver,N
+C00493,Aadhya Bose,Consumer,F,34,2021-05-14,aadhya.bose.493@example.com,Bronze,Yes
+C00494,Saanvi Bose,Corporate,M,21,31/05/2021,saanvi.bose.494@example.com,Bronze,1
+C00495,Pari Bose,Small Business,Other,31,06-17-2021,pari.bose.495@example.com,Bronze,Active
+C00496,Ira Bose,Consumer,F,35,04 Jul 2021,,Gold,Y
+C00497,Myra Bose,Corporate,M,26,2021-07-21,myra.bose.497@example.com,Gold,N
+C00498,Riya Bose,Small Business,Other,70,07/08/2021,riya.bose.498@example.com,Bronze,Yes
+C00499,Meera Bose,Consumer,F,47,08-24-2021,meera.bose.499@example.com,Bronze,1
+C00500,Kavya Bose,Corporate,M,36,10 Sep 2021,kavya.bose.500@example.com,Bronze,Active
+C00501,Kabir Bose,Small Business,Other,71,2021-09-27,kabir.bose.501@example.com,Silver,Y
+C00502,Anika Bose,Consumer,F,61,14/10/2021,anika.bose.502@example.com,Bronze,N
+C00503,Rohan Bose,Corporate,M,27,10-31-2021,rohan.bose.503@example.com,Bronze,Yes
+C00504,Tara Bose,Small Business,Other,50,17 Nov 2021,tara.bose.504@example.com,Bronze,1
+C00505,Dev Bose,Consumer,F,61,2021-12-04,dev.bose.505@example.com,Gold,Active
+C00506,Nisha Bose,Corporate,M,62,21/12/2021,nisha.bose.506@example.com,Bronze,Y
+C00507,Mira Bose,Small Business,Other,40,01-07-2022,,Bronze,N
+C00508,Ishita Bose,Consumer,F,54,24 Jan 2022,ishita.bose.508@example.com,Silver,Yes
+C00509,Neil Bose,Corporate,M,32,2022-02-10,neil.bose.509@example.com,Gold,1
+C00510,Aditi Bose,Small Business,Other,44,27/02/2022,aditi.bose.510@example.com,Gold,Active
+C00511,Aarav Mishra,Consumer,F,30,03-16-2022,aarav.mishra.511@example.com,Gold,Y
+C00512,Vivaan Mishra,Corporate,M,34,02 Apr 2022,vivaan.mishra.512@example.com,Bronze,N
+C00513,Aditya Mishra,Small Business,Other,22,2022-04-19,aditya.mishra.513@example.com,Gold,Yes
+C00514,Vihaan Mishra,Consumer,F,72,06/05/2022,vihaan.mishra.514@example.com,Bronze,1
+C00515,Arjun Mishra,Corporate,M,69,05-23-2022,arjun.mishra.515@example.com,Bronze,Active
+C00516,Sai Mishra,Small Business,Other,43,09 Jun 2022,sai.mishra.516@example.com,Gold,Y
+C00517,Reyansh Mishra,Consumer,F,67,2022-06-26,reyansh.mishra.517@example.com,Bronze,N
+C00518,Ayaan Mishra,Corporate,M,54,13/07/2022,,Silver,Yes
+C00519,Krishna Mishra,Small Business,Other,50,07-30-2022,krishna.mishra.519@example.com,Silver,1
+C00520,Ishaan Mishra,Consumer,F,69,16 Aug 2022,ishaan.mishra.520@example.com,Silver,Active
+C00521,Ananya Mishra,Corporate,M,53,2022-09-02,ananya.mishra.521@example.com,Silver,Y
+C00522,Diya Mishra,Small Business,Other,54,19/09/2022,diya.mishra.522@example.com,Bronze,N
+C00523,Aadhya Mishra,Consumer,F,18,10-06-2022,aadhya.mishra.523@example.com,Gold,Yes
+C00524,Saanvi Mishra,Corporate,M,21,23 Oct 2022,saanvi.mishra.524@example.com,Bronze,1
+C00525,Pari Mishra,Small Business,Other,43,2022-11-09,pari.mishra.525@example.com,Bronze,Active
+C00526,Ira Mishra,Consumer,F,62,26/11/2022,ira.mishra.526@example.com,Bronze,Y
+C00527,Myra Mishra,Corporate,M,47,12-13-2022,myra.mishra.527@example.com,Silver,N
+C00528,Riya Mishra,Small Business,Other,75,30 Dec 2022,riya.mishra.528@example.com,Bronze,Yes
+C00529,Meera Mishra,Consumer,F,54,2023-01-16,,Silver,1
+C00530,Kavya Mishra,Corporate,M,34,02/02/2023,kavya.mishra.530@example.com,Silver,Active
+C00531,Kabir Mishra,Small Business,Other,44,02-19-2023,kabir.mishra.531@example.com,Silver,Y
+C00532,Anika Mishra,Consumer,F,57,08 Mar 2023,anika.mishra.532@example.com,Gold,N
+C00533,Rohan Mishra,Corporate,M,46,2023-03-25,rohan.mishra.533@example.com,Silver,Yes
+C00534,Tara Mishra,Small Business,Other,70,11/04/2023,tara.mishra.534@example.com,Gold,1
+C00535,Dev Mishra,Consumer,F,0,04-28-2023,dev.mishra.535@example.com,Bronze,Active
+C00536,Nisha Mishra,Corporate,M,36,15 May 2023,nisha.mishra.536@example.com,Silver,Y
+C00537,Mira Mishra,Small Business,Other,28,2023-06-01,mira.mishra.537@example.com,Bronze,N
+C00538,Ishita Mishra,Consumer,F,34,18/06/2023,ishita.mishra.538@example.com,Silver,Yes
+C00539,Neil Mishra,Corporate,M,60,07-05-2023,neil.mishra.539@example.com,Bronze,1
+C00540,Aditi Mishra,Small Business,Other,73,22 Jul 2023,,Bronze,Active
+C00541,Aarav Jain,Consumer,F,39,2023-08-08,aarav.jain.541@example.com,Bronze,Y
+C00542,Vivaan Jain,Corporate,M,54,25/08/2023,vivaan.jain.542@example.com,Silver,N
+C00543,Aditya Jain,Small Business,Other,19,09-11-2023,aditya.jain.543@example.com,Gold,Yes
+C00544,Vihaan Jain,Consumer,F,20,28 Sep 2023,vihaan.jain.544@example.com,Gold,1
+C00545,Arjun Jain,Corporate,M,40,2023-10-15,arjun.jain.545@example.com,Silver,Active
+C00546,Sai Jain,Small Business,Other,51,01/11/2023,sai.jain.546@example.com,Bronze,Y
+C00547,Reyansh Jain,Consumer,F,63,11-18-2023,reyansh.jain.547@example.com,Silver,N
+C00548,Ayaan Jain,Corporate,M,28,05 Dec 2023,ayaan.jain.548@example.com,Bronze,Yes
+C00549,Krishna Jain,Small Business,Other,66,2023-12-22,krishna.jain.549@example.com,Silver,1
+C00550,Ishaan Jain,Consumer,F,28,08/01/2024,ishaan.jain.550@example.com,Silver,Active
+C00551,Ananya Jain,Corporate,M,61,01-25-2024,,Bronze,Y
+C00552,Diya Jain,Small Business,Other,64,11 Feb 2024,diya.jain.552@example.com,Gold,N
+C00553,Aadhya Jain,Consumer,F,71,2024-02-28,aadhya.jain.553@example.com,Bronze,Yes
+C00554,Saanvi Jain,Corporate,M,63,16/03/2024,saanvi.jain.554@example.com,Gold,1
+C00555,Pari Jain,Small Business,Other,42,04-02-2024,pari.jain.555@example.com,Silver,Active
+C00556,Ira Jain,Consumer,F,62,19 Apr 2024,ira.jain.556@example.com,Bronze,Y
+C00557,Myra Jain,Corporate,M,66,2024-05-06,myra.jain.557@example.com,Bronze,N
+C00558,Riya Jain,Small Business,Other,31,23/05/2024,riya.jain.558@example.com,Silver,Yes
+C00559,Meera Jain,Consumer,F,25,06-09-2024,meera.jain.559@example.com,Silver,1
+C00560,Kavya Jain,Corporate,M,50,26 Jun 2024,kavya.jain.560@example.com,Gold,Active
+C00561,Kabir Jain,Small Business,Other,48,2024-07-13,kabir.jain.561@example.com,Bronze,Y
+C00562,Anika Jain,Consumer,F,57,30/07/2024,,Bronze,N
+C00563,Rohan Jain,Corporate,M,37,08-16-2024,rohan.jain.563@example.com,Bronze,Yes
+C00564,Tara Jain,Small Business,Other,66,02 Sep 2024,tara.jain.564@example.com,Bronze,1
+C00565,Dev Jain,Consumer,F,37,2024-09-19,dev.jain.565@example.com,Bronze,Active
+C00566,Nisha Jain,Corporate,M,39,06/10/2024,nisha.jain.566@example.com,Bronze,Y
+C00567,Mira Jain,Small Business,Other,21,10-23-2024,mira.jain.567@example.com,Bronze,N
+C00568,Ishita Jain,Consumer,F,75,09 Nov 2024,ishita.jain.568@example.com,Silver,Yes
+C00569,Neil Jain,Corporate,M,69,2024-11-26,neil.jain.569@example.com,Silver,1
+C00570,Aditi Jain,Small Business,Other,49,13/12/2024,aditi.jain.570@example.com,Bronze,Active
+C00571,Aarav Desai,Consumer,F,38,12-30-2024,aarav.desai.571@example.com,Silver,Y
+C00572,Vivaan Desai,Corporate,M,25,16 Jan 2025,vivaan.desai.572@example.com,Bronze,N
+C00573,Aditya Desai,Small Business,Other,45,2025-02-02,,Silver,Yes
+C00574,Vihaan Desai,Consumer,F,26,19/02/2025,vihaan.desai.574@example.com,Bronze,1
+C00575,Arjun Desai,Corporate,M,44,03-08-2025,arjun.desai.575@example.com,Bronze,Active
+C00576,Sai Desai,Small Business,Other,28,25 Mar 2025,sai.desai.576@example.com,Silver,Y
+C00577,Reyansh Desai,Consumer,F,37,2025-04-11,reyansh.desai.577@example.com,Bronze,N
+C00578,Ayaan Desai,Corporate,M,38,28/04/2025,ayaan.desai.578@example.com,Gold,Yes
+C00579,Krishna Desai,Small Business,Other,59,05-15-2025,krishna.desai.579@example.com,Bronze,1
+C00580,Ishaan Desai,Consumer,F,75,01 Jun 2025,ishaan.desai.580@example.com,Bronze,Active
+C00581,Ananya Desai,Corporate,M,65,2025-06-18,ananya.desai.581@example.com,Bronze,Y
+C00582,Diya Desai,Small Business,Other,37,05/07/2025,diya.desai.582@example.com,Bronze,N
+C00583,Aadhya Desai,Consumer,F,-4,07-22-2025,aadhya.desai.583@example.com,Bronze,Yes
+C00584,Saanvi Desai,Corporate,M,73,08 Aug 2025,,Silver,1
+C00585,Pari Desai,Small Business,Other,60,2025-08-25,pari.desai.585@example.com,Bronze,Active
+C00586,Ira Desai,Consumer,F,22,11/09/2025,ira.desai.586@example.com,Gold,Y
+C00587,Myra Desai,Corporate,M,72,09-28-2025,myra.desai.587@example.com,Silver,N
+C00588,Riya Desai,Small Business,Other,32,15 Oct 2025,riya.desai.588@example.com,Gold,Yes
+C00589,Meera Desai,Consumer,F,21,2025-11-01,meera.desai.589@example.com,Silver,1
+C00590,Kavya Desai,Corporate,M,65,14/01/2019,kavya.desai.590@example.com,Bronze,Active
+C00591,Kabir Desai,Small Business,Other,59,01-31-2019,kabir.desai.591@example.com,Bronze,Y
+C00592,Anika Desai,Consumer,F,59,17 Feb 2019,anika.desai.592@example.com,Bronze,N
+C00593,Rohan Desai,Corporate,M,25,2019-03-06,rohan.desai.593@example.com,Gold,Yes
+C00594,Tara Desai,Small Business,Other,71,23/03/2019,tara.desai.594@example.com,Bronze,1
+C00595,Dev Desai,Consumer,F,22,04-09-2019,,Silver,Active
+C00596,Nisha Desai,Corporate,M,43,26 Apr 2019,nisha.desai.596@example.com,Bronze,Y
+C00597,Mira Desai,Small Business,Other,52,2019-05-13,mira.desai.597@example.com,Bronze,N
+C00598,Ishita Desai,Consumer,F,63,30/05/2019,ishita.desai.598@example.com,Silver,Yes
+C00599,Neil Desai,Corporate,M,35,06-16-2019,neil.desai.599@example.com,Gold,1
+C00600,Aditi Desai,Small Business,Other,46,03 Jul 2019,aditi.desai.600@example.com,Gold,Active
+C00601,Aarav Kapoor,Consumer,F,20,2019-07-20,aarav.kapoor.601@example.com,Bronze,Y
+C00602,Vivaan Kapoor,Corporate,M,65,06/08/2019,vivaan.kapoor.602@example.com,Silver,N
+C00603,Aditya Kapoor,Small Business,Other,64,08-23-2019,aditya.kapoor.603@example.com,Silver,Yes
+C00604,Vihaan Kapoor,Consumer,F,38,09 Sep 2019,vihaan.kapoor.604@example.com,Silver,1
+C00605,Arjun Kapoor,Corporate,M,34,2019-09-26,arjun.kapoor.605@example.com,Bronze,Active
+C00606,Sai Kapoor,Small Business,Other,55,13/10/2019,,Silver,Y
+C00607,Reyansh Kapoor,Consumer,F,68,10-30-2019,reyansh.kapoor.607@example.com,Silver,N
+C00608,Ayaan Kapoor,Corporate,M,62,16 Nov 2019,ayaan.kapoor.608@example.com,Bronze,Yes
+C00609,Krishna Kapoor,Small Business,Other,20,2019-12-03,krishna.kapoor.609@example.com,Bronze,1
+C00610,Ishaan Kapoor,Consumer,F,70,20/12/2019,ishaan.kapoor.610@example.com,Bronze,Active
+C00611,Ananya Kapoor,Corporate,M,61,01-06-2020,ananya.kapoor.611@example.com,Bronze,Y
+C00612,Diya Kapoor,Small Business,Other,31,23 Jan 2020,diya.kapoor.612@example.com,Bronze,N
+C00613,Aadhya Kapoor,Consumer,F,53,2020-02-09,aadhya.kapoor.613@example.com,Gold,Yes
+C00614,Saanvi Kapoor,Corporate,M,28,26/02/2020,saanvi.kapoor.614@example.com,Bronze,1
+C00615,Pari Kapoor,Small Business,Other,70,03-14-2020,pari.kapoor.615@example.com,Gold,Active
+C00616,Ira Kapoor,Consumer,F,40,31 Mar 2020,ira.kapoor.616@example.com,Bronze,Y
+C00617,Myra Kapoor,Corporate,M,34,2020-04-17,,Silver,N
+C00618,Riya Kapoor,Small Business,Other,66,04/05/2020,riya.kapoor.618@example.com,Bronze,Yes
+C00619,Meera Kapoor,Consumer,F,70,05-21-2020,meera.kapoor.619@example.com,Bronze,1
+C00620,Kavya Kapoor,Corporate,M,31,07 Jun 2020,kavya.kapoor.620@example.com,Silver,Active
+C00621,Kabir Kapoor,Small Business,Other,36,2020-06-24,kabir.kapoor.621@example.com,Bronze,Y
+C00622,Anika Kapoor,Consumer,F,73,11/07/2020,anika.kapoor.622@example.com,Gold,N
+C00623,Rohan Kapoor,Corporate,M,48,07-28-2020,rohan.kapoor.623@example.com,Gold,Yes
+C00624,Tara Kapoor,Small Business,Other,0,14 Aug 2020,tara.kapoor.624@example.com,Bronze,1
+C00625,Dev Kapoor,Consumer,F,52,2020-08-31,dev.kapoor.625@example.com,Bronze,Active
+C00626,Nisha Kapoor,Corporate,M,58,17/09/2020,nisha.kapoor.626@example.com,Silver,Y
+C00627,Mira Kapoor,Small Business,Other,55,10-04-2020,mira.kapoor.627@example.com,Silver,N
+C00628,Ishita Kapoor,Consumer,F,39,21 Oct 2020,,Silver,Yes
+C00629,Neil Kapoor,Corporate,M,53,2020-11-07,neil.kapoor.629@example.com,Silver,1
+C00630,Aditi Kapoor,Small Business,Other,59,24/11/2020,aditi.kapoor.630@example.com,Bronze,Active
+C00631,Aarav Malhotra,Consumer,F,69,12-11-2020,aarav.malhotra.631@example.com,Silver,Y
+C00632,Vivaan Malhotra,Corporate,M,64,28 Dec 2020,vivaan.malhotra.632@example.com,Gold,N
+C00633,Aditya Malhotra,Small Business,Other,43,2021-01-14,aditya.malhotra.633@example.com,Bronze,Yes
+C00634,Vihaan Malhotra,Consumer,F,33,31/01/2021,vihaan.malhotra.634@example.com,Silver,1
+C00635,Arjun Malhotra,Corporate,M,27,02-17-2021,arjun.malhotra.635@example.com,Bronze,Active
+C00636,Sai Malhotra,Small Business,Other,49,06 Mar 2021,sai.malhotra.636@example.com,Bronze,Y
+C00637,Reyansh Malhotra,Consumer,F,45,2021-03-23,reyansh.malhotra.637@example.com,Silver,N
+C00638,Ayaan Malhotra,Corporate,M,43,09/04/2021,ayaan.malhotra.638@example.com,Bronze,Yes
+C00639,Krishna Malhotra,Small Business,Other,45,04-26-2021,,Bronze,1
+C00640,Ishaan Malhotra,Consumer,F,63,13 May 2021,ishaan.malhotra.640@example.com,Silver,Active
+C00641,Ananya Malhotra,Corporate,M,66,2021-05-30,ananya.malhotra.641@example.com,Silver,Y
+C00642,Diya Malhotra,Small Business,Other,72,16/06/2021,diya.malhotra.642@example.com,Silver,N
+C00643,Aadhya Malhotra,Consumer,F,50,07-03-2021,aadhya.malhotra.643@example.com,Silver,Yes
+C00644,Saanvi Malhotra,Corporate,M,32,20 Jul 2021,saanvi.malhotra.644@example.com,Bronze,1
+C00645,Pari Malhotra,Small Business,Other,44,2021-08-06,pari.malhotra.645@example.com,Silver,Active
+C00646,Ira Malhotra,Consumer,F,75,23/08/2021,ira.malhotra.646@example.com,Silver,Y
+C00647,Myra Malhotra,Corporate,M,60,09-09-2021,myra.malhotra.647@example.com,Silver,N
+C00648,Riya Malhotra,Small Business,Other,59,26 Sep 2021,riya.malhotra.648@example.com,Bronze,Yes
+C00649,Meera Malhotra,Consumer,F,74,2021-10-13,meera.malhotra.649@example.com,Bronze,1
+C00650,Kavya Malhotra,Corporate,M,35,30/10/2021,,Gold,Active
+C00651,Kabir Malhotra,Small Business,Other,22,11-16-2021,kabir.malhotra.651@example.com,Silver,Y
+C00652,Anika Malhotra,Consumer,F,29,03 Dec 2021,anika.malhotra.652@example.com,Silver,N
+C00653,Rohan Malhotra,Corporate,M,40,2021-12-20,rohan.malhotra.653@example.com,Silver,Yes
+C00654,Tara Malhotra,Small Business,Other,73,06/01/2022,tara.malhotra.654@example.com,Bronze,1
+C00655,Dev Malhotra,Consumer,F,27,01-23-2022,dev.malhotra.655@example.com,Bronze,Active
+C00656,Nisha Malhotra,Corporate,M,49,09 Feb 2022,nisha.malhotra.656@example.com,Bronze,Y
+C00657,Mira Malhotra,Small Business,Other,33,2022-02-26,mira.malhotra.657@example.com,Bronze,N
+C00658,Ishita Malhotra,Consumer,F,66,15/03/2022,ishita.malhotra.658@example.com,Bronze,Yes
+C00659,Neil Malhotra,Corporate,M,21,04-01-2022,neil.malhotra.659@example.com,Silver,1
+C00660,Aditi Malhotra,Small Business,Other,75,18 Apr 2022,aditi.malhotra.660@example.com,Bronze,Active
+C00661,Aarav Chopra,Consumer,F,66,2022-05-05,,Bronze,Y
+C00662,Vivaan Chopra,Corporate,M,37,22/05/2022,vivaan.chopra.662@example.com,Silver,N
+C00663,Aditya Chopra,Small Business,Other,28,06-08-2022,aditya.chopra.663@example.com,Bronze,Yes
+C00664,Vihaan Chopra,Consumer,F,31,25 Jun 2022,vihaan.chopra.664@example.com,Silver,1
+C00665,Arjun Chopra,Corporate,M,51,2022-07-12,arjun.chopra.665@example.com,Bronze,Active
+C00666,Sai Chopra,Small Business,Other,34,29/07/2022,sai.chopra.666@example.com,Bronze,Y
+C00667,Reyansh Chopra,Consumer,F,39,08-15-2022,reyansh.chopra.667@example.com,Bronze,N
+C00668,Ayaan Chopra,Corporate,M,70,01 Sep 2022,ayaan.chopra.668@example.com,Gold,Yes
+C00669,Krishna Chopra,Small Business,Other,35,2022-09-18,krishna.chopra.669@example.com,Silver,1
+C00670,Ishaan Chopra,Consumer,F,40,05/10/2022,ishaan.chopra.670@example.com,Silver,Active
+C00671,Ananya Chopra,Corporate,M,29,10-22-2022,ananya.chopra.671@example.com,Silver,Y
+C00672,Diya Chopra,Small Business,Other,33,08 Nov 2022,,Bronze,N
+C00673,Aadhya Chopra,Consumer,F,54,2022-11-25,aadhya.chopra.673@example.com,Bronze,Yes
+C00674,Saanvi Chopra,Corporate,M,69,12/12/2022,saanvi.chopra.674@example.com,Silver,1
+C00675,Pari Chopra,Small Business,Other,56,12-29-2022,pari.chopra.675@example.com,Bronze,Active
+C00676,Ira Chopra,Consumer,F,46,15 Jan 2023,ira.chopra.676@example.com,Silver,Y
+C00677,Myra Chopra,Corporate,M,61,2023-02-01,myra.chopra.677@example.com,Silver,N
+C00678,Riya Chopra,Small Business,Other,55,18/02/2023,riya.chopra.678@example.com,Bronze,Yes
+C00679,Meera Chopra,Consumer,F,18,03-07-2023,meera.chopra.679@example.com,Bronze,1
+C00680,Kavya Chopra,Corporate,M,-4,24 Mar 2023,kavya.chopra.680@example.com,Bronze,Active
+C00681,Kabir Chopra,Small Business,Other,62,2023-04-10,kabir.chopra.681@example.com,Bronze,Y
+C00682,Anika Chopra,Consumer,F,28,27/04/2023,anika.chopra.682@example.com,Bronze,N
+C00683,Rohan Chopra,Corporate,M,43,05-14-2023,,Bronze,Yes
+C00684,Tara Chopra,Small Business,Other,48,31 May 2023,tara.chopra.684@example.com,Bronze,1
+C00685,Dev Chopra,Consumer,F,74,2023-06-17,dev.chopra.685@example.com,Bronze,Active
+C00686,Nisha Chopra,Corporate,M,52,04/07/2023,nisha.chopra.686@example.com,Silver,Y
+C00687,Mira Chopra,Small Business,Other,18,07-21-2023,mira.chopra.687@example.com,Silver,N
+C00688,Ishita Chopra,Consumer,F,45,07 Aug 2023,ishita.chopra.688@example.com,Bronze,Yes
+C00689,Neil Chopra,Corporate,M,25,2023-08-24,neil.chopra.689@example.com,Bronze,1
+C00690,Aditi Chopra,Small Business,Other,63,10/09/2023,aditi.chopra.690@example.com,Bronze,Active
+C00691,Aarav Menon,Consumer,F,47,09-27-2023,aarav.menon.691@example.com,Bronze,Y
+C00692,Vivaan Menon,Corporate,M,29,14 Oct 2023,vivaan.menon.692@example.com,Silver,N
+C00693,Aditya Menon,Small Business,Other,27,2023-10-31,aditya.menon.693@example.com,Gold,Yes
+C00694,Vihaan Menon,Consumer,F,67,17/11/2023,,Gold,1
+C00695,Arjun Menon,Corporate,M,42,12-04-2023,arjun.menon.695@example.com,Silver,Active
+C00696,Sai Menon,Small Business,Other,41,21 Dec 2023,sai.menon.696@example.com,Silver,Y
+C00697,Reyansh Menon,Consumer,F,49,2024-01-07,reyansh.menon.697@example.com,Bronze,N
+C00698,Ayaan Menon,Corporate,M,22,24/01/2024,ayaan.menon.698@example.com,Bronze,Yes
+C00699,Krishna Menon,Small Business,Other,63,02-10-2024,krishna.menon.699@example.com,Silver,1
+C00700,Ishaan Menon,Consumer,F,54,27 Feb 2024,ishaan.menon.700@example.com,Bronze,Active
+C00701,Ananya Menon,Corporate,M,69,2024-03-15,ananya.menon.701@example.com,Gold,Y
+C00702,Diya Menon,Small Business,Other,74,01/04/2024,diya.menon.702@example.com,Silver,N
+C00703,Aadhya Menon,Consumer,F,68,04-18-2024,aadhya.menon.703@example.com,Silver,Yes
+C00704,Saanvi Menon,Corporate,M,35,05 May 2024,saanvi.menon.704@example.com,Silver,1
+C00705,Pari Menon,Small Business,Other,25,2024-05-22,,Bronze,Active
+C00706,Ira Menon,Consumer,F,56,08/06/2024,ira.menon.706@example.com,Bronze,Y
+C00707,Myra Menon,Corporate,M,59,06-25-2024,myra.menon.707@example.com,Silver,N
+C00708,Riya Menon,Small Business,Other,47,12 Jul 2024,riya.menon.708@example.com,Silver,Yes
+C00709,Meera Menon,Consumer,F,52,2024-07-29,meera.menon.709@example.com,Silver,1
+C00710,Kavya Menon,Corporate,M,48,15/08/2024,kavya.menon.710@example.com,Bronze,Active
+C00711,Kabir Menon,Small Business,Other,52,09-01-2024,kabir.menon.711@example.com,Bronze,Y
+C00712,Anika Menon,Consumer,F,35,18 Sep 2024,anika.menon.712@example.com,Bronze,N
+C00713,Rohan Menon,Corporate,M,0,2024-10-05,rohan.menon.713@example.com,Bronze,Yes
+C00714,Tara Menon,Small Business,Other,39,22/10/2024,tara.menon.714@example.com,Silver,1
+C00715,Dev Menon,Consumer,F,31,11-08-2024,dev.menon.715@example.com,Bronze,Active
+C00716,Nisha Menon,Corporate,M,26,25 Nov 2024,,Silver,Y
+C00717,Mira Menon,Small Business,Other,73,2024-12-12,mira.menon.717@example.com,Silver,N
+C00718,Ishita Menon,Consumer,F,64,29/12/2024,ishita.menon.718@example.com,Silver,Yes
+C00719,Neil Menon,Corporate,M,38,01-15-2025,neil.menon.719@example.com,Silver,1
+C00720,Aditi Menon,Small Business,Other,58,01 Feb 2025,aditi.menon.720@example.com,Bronze,Active
+C00721,Aarav Saxena,Consumer,F,48,2025-02-18,aarav.saxena.721@example.com,Bronze,Y
+C00722,Vivaan Saxena,Corporate,M,63,07/03/2025,vivaan.saxena.722@example.com,Gold,N
+C00723,Aditya Saxena,Small Business,Other,22,03-24-2025,aditya.saxena.723@example.com,Bronze,Yes
+C00724,Vihaan Saxena,Consumer,F,68,10 Apr 2025,vihaan.saxena.724@example.com,Bronze,1
+C00725,Arjun Saxena,Corporate,M,68,2025-04-27,arjun.saxena.725@example.com,Bronze,Active
+C00726,Sai Saxena,Small Business,Other,57,14/05/2025,sai.saxena.726@example.com,Bronze,Y
+C00727,Reyansh Saxena,Consumer,F,72,05-31-2025,,Silver,N
+C00728,Ayaan Saxena,Corporate,M,47,17 Jun 2025,ayaan.saxena.728@example.com,Gold,Yes
+C00729,Krishna Saxena,Small Business,Other,31,2025-07-04,krishna.saxena.729@example.com,Bronze,1
+C00730,Ishaan Saxena,Consumer,F,59,21/07/2025,ishaan.saxena.730@example.com,Bronze,Active
+C00731,Ananya Saxena,Corporate,M,33,08-07-2025,ananya.saxena.731@example.com,Bronze,Y
+C00732,Diya Saxena,Small Business,Other,34,24 Aug 2025,diya.saxena.732@example.com,Gold,N
+C00733,Aadhya Saxena,Consumer,F,18,2025-09-10,aadhya.saxena.733@example.com,Silver,Yes
+C00734,Saanvi Saxena,Corporate,M,40,27/09/2025,saanvi.saxena.734@example.com,Bronze,1
+C00735,Pari Saxena,Small Business,Other,73,10-14-2025,pari.saxena.735@example.com,Gold,Active
+C00736,Ira Saxena,Consumer,F,44,31 Oct 2025,ira.saxena.736@example.com,Bronze,Y
+C00737,Myra Saxena,Corporate,M,40,2019-01-13,myra.saxena.737@example.com,Gold,N
+C00738,Riya Saxena,Small Business,Other,34,30/01/2019,,Bronze,Yes
+C00739,Meera Saxena,Consumer,F,74,02-16-2019,meera.saxena.739@example.com,Bronze,1
+C00740,Kavya Saxena,Corporate,M,74,05 Mar 2019,kavya.saxena.740@example.com,Bronze,Active
+C00741,Kabir Saxena,Small Business,Other,29,2019-03-22,kabir.saxena.741@example.com,Bronze,Y
+C00742,Anika Saxena,Consumer,F,29,08/04/2019,anika.saxena.742@example.com,Gold,N
+C00743,Rohan Saxena,Corporate,M,54,04-25-2019,rohan.saxena.743@example.com,Bronze,Yes
+C00744,Tara Saxena,Small Business,Other,74,12 May 2019,tara.saxena.744@example.com,Gold,1
+C00745,Dev Saxena,Consumer,F,72,2019-05-29,dev.saxena.745@example.com,Silver,Active
+C00746,Nisha Saxena,Corporate,M,23,15/06/2019,nisha.saxena.746@example.com,Bronze,Y
+C00747,Mira Saxena,Small Business,Other,27,07-02-2019,mira.saxena.747@example.com,Silver,N
+C00748,Ishita Saxena,Consumer,F,48,19 Jul 2019,ishita.saxena.748@example.com,Bronze,Yes
+C00749,Neil Saxena,Corporate,M,38,2019-08-05,,Bronze,1
+C00750,Aditi Saxena,Small Business,Other,28,22/08/2019,aditi.saxena.750@example.com,Silver,Active
+C00751,Aarav Bansal,Consumer,F,74,09-08-2019,aarav.bansal.751@example.com,Silver,Y
+C00752,Vivaan Bansal,Corporate,M,29,25 Sep 2019,vivaan.bansal.752@example.com,Bronze,N
+C00753,Aditya Bansal,Small Business,Other,74,2019-10-12,aditya.bansal.753@example.com,Gold,Yes
+C00754,Vihaan Bansal,Consumer,F,33,29/10/2019,vihaan.bansal.754@example.com,Silver,1
+C00755,Arjun Bansal,Corporate,M,71,11-15-2019,arjun.bansal.755@example.com,Silver,Active
+C00756,Sai Bansal,Small Business,Other,43,02 Dec 2019,sai.bansal.756@example.com,Bronze,Y
+C00757,Reyansh Bansal,Consumer,F,73,2019-12-19,reyansh.bansal.757@example.com,Gold,N
+C00758,Ayaan Bansal,Corporate,M,56,05/01/2020,ayaan.bansal.758@example.com,Silver,Yes
+C00759,Krishna Bansal,Small Business,Other,18,01-22-2020,krishna.bansal.759@example.com,Silver,1
+C00760,Ishaan Bansal,Consumer,F,38,08 Feb 2020,,Silver,Active
+C00761,Ananya Bansal,Corporate,M,38,2020-02-25,ananya.bansal.761@example.com,Silver,Y
+C00762,Diya Bansal,Small Business,Other,22,13/03/2020,diya.bansal.762@example.com,Silver,N
+C00763,Aadhya Bansal,Consumer,F,68,03-30-2020,aadhya.bansal.763@example.com,Bronze,Yes
+C00764,Saanvi Bansal,Corporate,M,36,16 Apr 2020,saanvi.bansal.764@example.com,Silver,1
+C00765,Pari Bansal,Small Business,Other,59,2020-05-03,pari.bansal.765@example.com,Silver,Active
+C00766,Ira Bansal,Consumer,F,35,20/05/2020,ira.bansal.766@example.com,Silver,Y
+C00767,Myra Bansal,Corporate,M,53,06-06-2020,myra.bansal.767@example.com,Bronze,N
+C00768,Riya Bansal,Small Business,Other,22,23 Jun 2020,riya.bansal.768@example.com,Bronze,Yes
+C00769,Meera Bansal,Consumer,F,48,2020-07-10,meera.bansal.769@example.com,Silver,1
+C00770,Kavya Bansal,Corporate,M,37,27/07/2020,kavya.bansal.770@example.com,Bronze,Active
+C00771,Kabir Bansal,Small Business,Other,25,08-13-2020,,Silver,Y
+C00772,Anika Bansal,Consumer,F,69,30 Aug 2020,anika.bansal.772@example.com,Bronze,N
+C00773,Rohan Bansal,Corporate,M,24,2020-09-16,rohan.bansal.773@example.com,Gold,Yes
+C00774,Tara Bansal,Small Business,Other,38,03/10/2020,tara.bansal.774@example.com,Silver,1
+C00775,Dev Bansal,Consumer,F,62,10-20-2020,dev.bansal.775@example.com,Bronze,Active
+C00776,Nisha Bansal,Corporate,M,34,06 Nov 2020,nisha.bansal.776@example.com,Silver,Y
+C00777,Mira Bansal,Small Business,Other,-4,2020-11-23,mira.bansal.777@example.com,Bronze,N
+C00778,Ishita Bansal,Consumer,F,68,10/12/2020,ishita.bansal.778@example.com,Bronze,Yes
+C00779,Neil Bansal,Corporate,M,65,12-27-2020,neil.bansal.779@example.com,Bronze,1
+C00780,Aditi Bansal,Small Business,Other,60,13 Jan 2021,aditi.bansal.780@example.com,Bronze,Active
+C00781,Aarav Ghosh,Consumer,F,51,2021-01-30,aarav.ghosh.781@example.com,Bronze,Y
+C00782,Vivaan Ghosh,Corporate,M,43,16/02/2021,,Bronze,N
+C00783,Aditya Ghosh,Small Business,Other,23,03-05-2021,aditya.ghosh.783@example.com,Bronze,Yes
+C00784,Vihaan Ghosh,Consumer,F,42,22 Mar 2021,vihaan.ghosh.784@example.com,Bronze,1
+C00785,Arjun Ghosh,Corporate,M,72,2021-04-08,arjun.ghosh.785@example.com,Bronze,Active
+C00786,Sai Ghosh,Small Business,Other,69,25/04/2021,sai.ghosh.786@example.com,Bronze,Y
+C00787,Reyansh Ghosh,Consumer,F,68,05-12-2021,reyansh.ghosh.787@example.com,Bronze,N
+C00788,Ayaan Ghosh,Corporate,M,28,29 May 2021,ayaan.ghosh.788@example.com,Bronze,Yes
+C00789,Krishna Ghosh,Small Business,Other,51,2021-06-15,krishna.ghosh.789@example.com,Gold,1
+C00790,Ishaan Ghosh,Consumer,F,48,02/07/2021,ishaan.ghosh.790@example.com,Silver,Active
+C00791,Ananya Ghosh,Corporate,M,68,07-19-2021,ananya.ghosh.791@example.com,Bronze,Y
+C00792,Diya Ghosh,Small Business,Other,41,05 Aug 2021,diya.ghosh.792@example.com,Bronze,N
+C00793,Aadhya Ghosh,Consumer,F,51,2021-08-22,,Silver,Yes
+C00794,Saanvi Ghosh,Corporate,M,52,08/09/2021,saanvi.ghosh.794@example.com,Bronze,1
+C00795,Pari Ghosh,Small Business,Other,28,09-25-2021,pari.ghosh.795@example.com,Bronze,Active
+C00796,Ira Ghosh,Consumer,F,31,12 Oct 2021,ira.ghosh.796@example.com,Gold,Y
+C00797,Myra Ghosh,Corporate,M,52,2021-10-29,myra.ghosh.797@example.com,Silver,N
+C00798,Riya Ghosh,Small Business,Other,40,15/11/2021,riya.ghosh.798@example.com,Silver,Yes
+C00799,Meera Ghosh,Consumer,F,24,12-02-2021,meera.ghosh.799@example.com,Bronze,1
+C00800,Kavya Ghosh,Corporate,M,22,19 Dec 2021,kavya.ghosh.800@example.com,Bronze,Active
+C00801,Kabir Ghosh,Small Business,Other,29,2022-01-05,kabir.ghosh.801@example.com,Silver,Y
+C00802,Anika Ghosh,Consumer,F,0,22/01/2022,anika.ghosh.802@example.com,Bronze,N
+C00803,Rohan Ghosh,Corporate,M,47,02-08-2022,rohan.ghosh.803@example.com,Gold,Yes
+C00804,Tara Ghosh,Small Business,Other,56,25 Feb 2022,,Bronze,1
+C00805,Dev Ghosh,Consumer,F,30,2022-03-14,dev.ghosh.805@example.com,Bronze,Active
+C00806,Nisha Ghosh,Corporate,M,37,31/03/2022,nisha.ghosh.806@example.com,Silver,Y
+C00807,Mira Ghosh,Small Business,Other,62,04-17-2022,mira.ghosh.807@example.com,Gold,N
+C00808,Ishita Ghosh,Consumer,F,51,04 May 2022,ishita.ghosh.808@example.com,Gold,Yes
+C00809,Neil Ghosh,Corporate,M,42,2022-05-21,neil.ghosh.809@example.com,Silver,1
+C00810,Aditi Ghosh,Small Business,Other,49,07/06/2022,aditi.ghosh.810@example.com,Silver,Active
+C00811,Aarav Pillai,Consumer,F,65,06-24-2022,aarav.pillai.811@example.com,Silver,Y
+C00812,Vivaan Pillai,Corporate,M,26,11 Jul 2022,vivaan.pillai.812@example.com,Bronze,N
+C00813,Aditya Pillai,Small Business,Other,37,2022-07-28,aditya.pillai.813@example.com,Silver,Yes
+C00814,Vihaan Pillai,Consumer,F,56,14/08/2022,vihaan.pillai.814@example.com,Bronze,1
+C00815,Arjun Pillai,Corporate,M,24,08-31-2022,,Gold,Active
+C00816,Sai Pillai,Small Business,Other,25,17 Sep 2022,sai.pillai.816@example.com,Silver,Y
+C00817,Reyansh Pillai,Consumer,F,42,2022-10-04,reyansh.pillai.817@example.com,Bronze,N
+C00818,Ayaan Pillai,Corporate,M,24,21/10/2022,ayaan.pillai.818@example.com,Bronze,Yes
+C00819,Krishna Pillai,Small Business,Other,46,11-07-2022,krishna.pillai.819@example.com,Gold,1
+C00820,Ishaan Pillai,Consumer,F,68,24 Nov 2022,ishaan.pillai.820@example.com,Gold,Active
+C00821,Ananya Pillai,Corporate,M,31,2022-12-11,ananya.pillai.821@example.com,Silver,Y
+C00822,Diya Pillai,Small Business,Other,52,28/12/2022,diya.pillai.822@example.com,Gold,N
+C00823,Aadhya Pillai,Consumer,F,43,01-14-2023,aadhya.pillai.823@example.com,Bronze,Yes
+C00824,Saanvi Pillai,Corporate,M,28,31 Jan 2023,saanvi.pillai.824@example.com,Silver,1
+C00825,Pari Pillai,Small Business,Other,23,2023-02-17,pari.pillai.825@example.com,Silver,Active
+C00826,Ira Pillai,Consumer,F,24,06/03/2023,,Bronze,Y
+C00827,Myra Pillai,Corporate,M,40,03-23-2023,myra.pillai.827@example.com,Bronze,N
+C00828,Riya Pillai,Small Business,Other,75,09 Apr 2023,riya.pillai.828@example.com,Bronze,Yes
+C00829,Meera Pillai,Consumer,F,73,2023-04-26,meera.pillai.829@example.com,Bronze,1
+C00830,Kavya Pillai,Corporate,M,61,13/05/2023,kavya.pillai.830@example.com,Silver,Active
+C00831,Kabir Pillai,Small Business,Other,33,05-30-2023,kabir.pillai.831@example.com,Silver,Y
+C00832,Anika Pillai,Consumer,F,67,16 Jun 2023,anika.pillai.832@example.com,Bronze,N
+C00833,Rohan Pillai,Corporate,M,21,2023-07-03,rohan.pillai.833@example.com,Gold,Yes
+C00834,Tara Pillai,Small Business,Other,35,20/07/2023,tara.pillai.834@example.com,Bronze,1
+C00835,Dev Pillai,Consumer,F,65,08-06-2023,dev.pillai.835@example.com,Gold,Active
+C00836,Nisha Pillai,Corporate,M,42,23 Aug 2023,nisha.pillai.836@example.com,Gold,Y
+C00837,Mira Pillai,Small Business,Other,66,2023-09-09,,Bronze,N
+C00838,Ishita Pillai,Consumer,F,46,26/09/2023,ishita.pillai.838@example.com,Silver,Yes
+C00839,Neil Pillai,Corporate,M,68,10-13-2023,neil.pillai.839@example.com,Silver,1
+C00840,Aditi Pillai,Small Business,Other,67,30 Oct 2023,aditi.pillai.840@example.com,Silver,Active
+C00841,Aarav Sethi,Consumer,F,21,2023-11-16,aarav.sethi.841@example.com,Bronze,Y
+C00842,Vivaan Sethi,Corporate,M,71,03/12/2023,vivaan.sethi.842@example.com,Gold,N
+C00843,Aditya Sethi,Small Business,Other,45,12-20-2023,aditya.sethi.843@example.com,Bronze,Yes
+C00844,Vihaan Sethi,Consumer,F,26,06 Jan 2024,vihaan.sethi.844@example.com,Gold,1
+C00845,Arjun Sethi,Corporate,M,30,2024-01-23,arjun.sethi.845@example.com,Silver,Active
+C00846,Sai Sethi,Small Business,Other,20,09/02/2024,sai.sethi.846@example.com,Bronze,Y
+C00847,Reyansh Sethi,Consumer,F,18,02-26-2024,reyansh.sethi.847@example.com,Bronze,N
+C00848,Ayaan Sethi,Corporate,M,34,14 Mar 2024,,Bronze,Yes
+C00849,Krishna Sethi,Small Business,Other,32,2024-03-31,krishna.sethi.849@example.com,Bronze,1
+C00850,Ishaan Sethi,Consumer,F,63,17/04/2024,ishaan.sethi.850@example.com,Bronze,Active
+C00851,Ananya Sethi,Corporate,M,28,05-04-2024,ananya.sethi.851@example.com,Bronze,Y
+C00852,Diya Sethi,Small Business,Other,61,21 May 2024,diya.sethi.852@example.com,Silver,N
+C00853,Aadhya Sethi,Consumer,F,54,2024-06-07,aadhya.sethi.853@example.com,Gold,Yes
+C00854,Saanvi Sethi,Corporate,M,35,24/06/2024,saanvi.sethi.854@example.com,Bronze,1
+C00855,Pari Sethi,Small Business,Other,35,07-11-2024,pari.sethi.855@example.com,Silver,Active
+C00856,Ira Sethi,Consumer,F,54,28 Jul 2024,ira.sethi.856@example.com,Bronze,Y
+C00857,Myra Sethi,Corporate,M,73,2024-08-14,myra.sethi.857@example.com,Silver,N
+C00858,Riya Sethi,Small Business,Other,49,31/08/2024,riya.sethi.858@example.com,Silver,Yes
+C00859,Meera Sethi,Consumer,F,50,09-17-2024,,Silver,1
+C00860,Kavya Sethi,Corporate,M,65,04 Oct 2024,kavya.sethi.860@example.com,Silver,Active
+C00861,Kabir Sethi,Small Business,Other,55,2024-10-21,kabir.sethi.861@example.com,Silver,Y
+C00862,Anika Sethi,Consumer,F,49,07/11/2024,anika.sethi.862@example.com,Bronze,N
+C00863,Rohan Sethi,Corporate,M,62,11-24-2024,rohan.sethi.863@example.com,Bronze,Yes
+C00864,Tara Sethi,Small Business,Other,58,11 Dec 2024,tara.sethi.864@example.com,Bronze,1
+C00865,Dev Sethi,Consumer,F,18,2024-12-28,dev.sethi.865@example.com,Gold,Active
+C00866,Nisha Sethi,Corporate,M,25,14/01/2025,nisha.sethi.866@example.com,Bronze,Y
+C00867,Mira Sethi,Small Business,Other,75,01-31-2025,mira.sethi.867@example.com,Silver,N
+C00868,Ishita Sethi,Consumer,F,49,17 Feb 2025,ishita.sethi.868@example.com,Gold,Yes
+C00869,Neil Sethi,Corporate,M,47,2025-03-06,neil.sethi.869@example.com,Silver,1
+C00870,Aditi Sethi,Small Business,Other,36,23/03/2025,,Bronze,Active
+C00871,Aarav Dutta,Consumer,F,72,04-09-2025,aarav.dutta.871@example.com,Bronze,Y
+C00872,Vivaan Dutta,Corporate,M,29,26 Apr 2025,vivaan.dutta.872@example.com,Gold,N
+C00873,Aditya Dutta,Small Business,Other,75,2025-05-13,aditya.dutta.873@example.com,Bronze,Yes
+C00874,Vihaan Dutta,Consumer,F,-4,30/05/2025,vihaan.dutta.874@example.com,Bronze,1
+C00875,Arjun Dutta,Corporate,M,25,06-16-2025,arjun.dutta.875@example.com,Silver,Active
+C00876,Sai Dutta,Small Business,Other,24,03 Jul 2025,sai.dutta.876@example.com,Silver,Y
+C00877,Reyansh Dutta,Consumer,F,28,2025-07-20,reyansh.dutta.877@example.com,Bronze,N
+C00878,Ayaan Dutta,Corporate,M,32,06/08/2025,ayaan.dutta.878@example.com,Bronze,Yes
+C00879,Krishna Dutta,Small Business,Other,63,08-23-2025,krishna.dutta.879@example.com,Bronze,1
+C00880,Ishaan Dutta,Consumer,F,23,09 Sep 2025,ishaan.dutta.880@example.com,Silver,Active
+C00881,Ananya Dutta,Corporate,M,49,2025-09-26,,Bronze,Y
+C00882,Diya Dutta,Small Business,Other,27,13/10/2025,diya.dutta.882@example.com,Silver,N
+C00883,Aadhya Dutta,Consumer,F,30,10-30-2025,aadhya.dutta.883@example.com,Silver,Yes
+C00884,Saanvi Dutta,Corporate,M,39,12 Jan 2019,saanvi.dutta.884@example.com,Bronze,1
+C00885,Pari Dutta,Small Business,Other,59,2019-01-29,pari.dutta.885@example.com,Silver,Active
+C00886,Ira Dutta,Consumer,F,52,15/02/2019,ira.dutta.886@example.com,Silver,Y
+C00887,Myra Dutta,Corporate,M,71,03-04-2019,myra.dutta.887@example.com,Gold,N
+C00888,Riya Dutta,Small Business,Other,69,21 Mar 2019,riya.dutta.888@example.com,Silver,Yes
+C00889,Meera Dutta,Consumer,F,67,2019-04-07,meera.dutta.889@example.com,Bronze,1
+C00890,Kavya Dutta,Corporate,M,24,24/04/2019,kavya.dutta.890@example.com,Bronze,Active
+C00891,Kabir Dutta,Small Business,Other,0,05-11-2019,kabir.dutta.891@example.com,Bronze,Y
+C00892,Anika Dutta,Consumer,F,32,28 May 2019,,Silver,N
+C00893,Rohan Dutta,Corporate,M,60,2019-06-14,rohan.dutta.893@example.com,Bronze,Yes
+C00894,Tara Dutta,Small Business,Other,71,01/07/2019,tara.dutta.894@example.com,Silver,1
+C00895,Dev Dutta,Consumer,F,58,07-18-2019,dev.dutta.895@example.com,Bronze,Active
+C00896,Nisha Dutta,Corporate,M,64,04 Aug 2019,nisha.dutta.896@example.com,Bronze,Y
+C00897,Mira Dutta,Small Business,Other,24,2019-08-21,mira.dutta.897@example.com,Silver,N
+C00898,Ishita Dutta,Consumer,F,37,07/09/2019,ishita.dutta.898@example.com,Gold,Yes
+C00899,Neil Dutta,Corporate,M,49,09-24-2019,neil.dutta.899@example.com,Silver,1
+C00900,Aditi Dutta,Small Business,Other,26,11 Oct 2019,aditi.dutta.900@example.com,Bronze,Active
+C00901,Aarav Trivedi,Consumer,F,35,2019-10-28,aarav.trivedi.901@example.com,Bronze,Y
+C00902,Vivaan Trivedi,Corporate,M,63,14/11/2019,vivaan.trivedi.902@example.com,Gold,N
+C00903,Aditya Trivedi,Small Business,Other,63,12-01-2019,,Silver,Yes
+C00904,Vihaan Trivedi,Consumer,F,60,18 Dec 2019,vihaan.trivedi.904@example.com,Silver,1
+C00905,Arjun Trivedi,Corporate,M,66,2020-01-04,arjun.trivedi.905@example.com,Bronze,Active
+C00906,Sai Trivedi,Small Business,Other,68,21/01/2020,sai.trivedi.906@example.com,Silver,Y
+C00907,Reyansh Trivedi,Consumer,F,57,02-07-2020,reyansh.trivedi.907@example.com,Bronze,N
+C00908,Ayaan Trivedi,Corporate,M,19,24 Feb 2020,ayaan.trivedi.908@example.com,Gold,Yes
+C00909,Krishna Trivedi,Small Business,Other,66,2020-03-12,krishna.trivedi.909@example.com,Bronze,1
+C00910,Ishaan Trivedi,Consumer,F,19,29/03/2020,ishaan.trivedi.910@example.com,Gold,Active
+C00911,Ananya Trivedi,Corporate,M,73,04-15-2020,ananya.trivedi.911@example.com,Gold,Y
+C00912,Diya Trivedi,Small Business,Other,21,02 May 2020,diya.trivedi.912@example.com,Gold,N
+C00913,Aadhya Trivedi,Consumer,F,53,2020-05-19,aadhya.trivedi.913@example.com,Bronze,Yes
+C00914,Saanvi Trivedi,Corporate,M,60,05/06/2020,,Bronze,1
+C00915,Pari Trivedi,Small Business,Other,22,06-22-2020,pari.trivedi.915@example.com,Gold,Active
+C00916,Ira Trivedi,Consumer,F,43,09 Jul 2020,ira.trivedi.916@example.com,Bronze,Y
+C00917,Myra Trivedi,Corporate,M,53,2020-07-26,myra.trivedi.917@example.com,Bronze,N
+C00918,Riya Trivedi,Small Business,Other,35,12/08/2020,riya.trivedi.918@example.com,Silver,Yes
+C00919,Meera Trivedi,Consumer,F,29,08-29-2020,meera.trivedi.919@example.com,Silver,1
+C00920,Kavya Trivedi,Corporate,M,46,15 Sep 2020,kavya.trivedi.920@example.com,Bronze,Active
+C00921,Kabir Trivedi,Small Business,Other,48,2020-10-02,kabir.trivedi.921@example.com,Bronze,Y
+C00922,Anika Trivedi,Consumer,F,65,19/10/2020,anika.trivedi.922@example.com,Silver,N
+C00923,Rohan Trivedi,Corporate,M,44,11-05-2020,rohan.trivedi.923@example.com,Gold,Yes
+C00924,Tara Trivedi,Small Business,Other,27,22 Nov 2020,tara.trivedi.924@example.com,Bronze,1
+C00925,Dev Trivedi,Consumer,F,61,2020-12-09,,Silver,Active
+C00926,Nisha Trivedi,Corporate,M,19,26/12/2020,nisha.trivedi.926@example.com,Bronze,Y
+C00927,Mira Trivedi,Small Business,Other,59,01-12-2021,mira.trivedi.927@example.com,Bronze,N
+C00928,Ishita Trivedi,Consumer,F,65,29 Jan 2021,ishita.trivedi.928@example.com,Bronze,Yes
+C00929,Neil Trivedi,Corporate,M,35,2021-02-15,neil.trivedi.929@example.com,Bronze,1
+C00930,Aditi Trivedi,Small Business,Other,37,04/03/2021,aditi.trivedi.930@example.com,Bronze,Active
+C00931,Aarav Naidu,Consumer,F,37,03-21-2021,aarav.naidu.931@example.com,Bronze,Y
+C00932,Vivaan Naidu,Corporate,M,51,07 Apr 2021,vivaan.naidu.932@example.com,Bronze,N
+C00933,Aditya Naidu,Small Business,Other,27,2021-04-24,aditya.naidu.933@example.com,Bronze,Yes
+C00934,Vihaan Naidu,Consumer,F,39,11/05/2021,vihaan.naidu.934@example.com,Bronze,1
+C00935,Arjun Naidu,Corporate,M,60,05-28-2021,arjun.naidu.935@example.com,Bronze,Active
+C00936,Sai Naidu,Small Business,Other,28,14 Jun 2021,,Bronze,Y
+C00937,Reyansh Naidu,Consumer,F,31,2021-07-01,reyansh.naidu.937@example.com,Bronze,N
+C00938,Ayaan Naidu,Corporate,M,71,18/07/2021,ayaan.naidu.938@example.com,Bronze,Yes
+C00939,Krishna Naidu,Small Business,Other,42,08-04-2021,krishna.naidu.939@example.com,Silver,1
+C00940,Ishaan Naidu,Consumer,F,34,21 Aug 2021,ishaan.naidu.940@example.com,Bronze,Active
+C00941,Ananya Naidu,Corporate,M,28,2021-09-07,ananya.naidu.941@example.com,Bronze,Y
+C00942,Diya Naidu,Small Business,Other,43,24/09/2021,diya.naidu.942@example.com,Silver,N
+C00943,Aadhya Naidu,Consumer,F,54,10-11-2021,aadhya.naidu.943@example.com,Bronze,Yes
+C00944,Saanvi Naidu,Corporate,M,57,28 Oct 2021,saanvi.naidu.944@example.com,Bronze,1
+C00945,Pari Naidu,Small Business,Other,65,2021-11-14,pari.naidu.945@example.com,Bronze,Active
+C00946,Ira Naidu,Consumer,F,67,01/12/2021,ira.naidu.946@example.com,Silver,Y
+C00947,Myra Naidu,Corporate,M,40,12-18-2021,,Bronze,N
+C00948,Riya Naidu,Small Business,Other,19,04 Jan 2022,riya.naidu.948@example.com,Bronze,Yes
+C00949,Meera Naidu,Consumer,F,63,2022-01-21,meera.naidu.949@example.com,Bronze,1
+C00950,Kavya Naidu,Corporate,M,41,07/02/2022,kavya.naidu.950@example.com,Bronze,Active
+C00951,Kabir Naidu,Small Business,Other,41,02-24-2022,kabir.naidu.951@example.com,Silver,Y
+C00952,Anika Naidu,Consumer,F,52,13 Mar 2022,anika.naidu.952@example.com,Bronze,N
+C00953,Rohan Naidu,Corporate,M,35,2022-03-30,rohan.naidu.953@example.com,Bronze,Yes
+C00954,Tara Naidu,Small Business,Other,49,16/04/2022,tara.naidu.954@example.com,Bronze,1
+C00955,Dev Naidu,Consumer,F,71,05-03-2022,dev.naidu.955@example.com,Silver,Active
+C00956,Nisha Naidu,Corporate,M,37,20 May 2022,nisha.naidu.956@example.com,Gold,Y
+C00957,Mira Naidu,Small Business,Other,57,2022-06-06,mira.naidu.957@example.com,Silver,N
+C00958,Ishita Naidu,Consumer,F,27,23/06/2022,,Bronze,Yes
+C00959,Neil Naidu,Corporate,M,59,07-10-2022,neil.naidu.959@example.com,Bronze,1
+C00960,Aditi Naidu,Small Business,Other,46,27 Jul 2022,aditi.naidu.960@example.com,Bronze,Active
+C00961,Aarav Kaur,Consumer,F,67,2022-08-13,aarav.kaur.961@example.com,Silver,Y
+C00962,Vivaan Kaur,Corporate,M,67,30/08/2022,vivaan.kaur.962@example.com,Silver,N
+C00963,Aditya Kaur,Small Business,Other,62,09-16-2022,aditya.kaur.963@example.com,Bronze,Yes
+C00964,Vihaan Kaur,Consumer,F,32,03 Oct 2022,vihaan.kaur.964@example.com,Bronze,1
+C00965,Arjun Kaur,Corporate,M,48,2022-10-20,arjun.kaur.965@example.com,Gold,Active
+C00966,Sai Kaur,Small Business,Other,74,06/11/2022,sai.kaur.966@example.com,Bronze,Y
+C00967,Reyansh Kaur,Consumer,F,30,11-23-2022,reyansh.kaur.967@example.com,Bronze,N
+C00968,Ayaan Kaur,Corporate,M,50,10 Dec 2022,ayaan.kaur.968@example.com,Bronze,Yes
+C00969,Krishna Kaur,Small Business,Other,48,2022-12-27,,Silver,1
+C00970,Ishaan Kaur,Consumer,F,59,13/01/2023,ishaan.kaur.970@example.com,Silver,Active
+C00971,Ananya Kaur,Corporate,M,-4,01-30-2023,ananya.kaur.971@example.com,Gold,Y
+C00972,Diya Kaur,Small Business,Other,19,16 Feb 2023,diya.kaur.972@example.com,Silver,N
+C00973,Aadhya Kaur,Consumer,F,18,2023-03-05,aadhya.kaur.973@example.com,Silver,Yes
+C00974,Saanvi Kaur,Corporate,M,62,22/03/2023,saanvi.kaur.974@example.com,Bronze,1
+C00975,Pari Kaur,Small Business,Other,23,04-08-2023,pari.kaur.975@example.com,Bronze,Active
+C00976,Ira Kaur,Consumer,F,69,25 Apr 2023,ira.kaur.976@example.com,Bronze,Y
+C00977,Myra Kaur,Corporate,M,22,2023-05-12,myra.kaur.977@example.com,Silver,N
+C00978,Riya Kaur,Small Business,Other,63,29/05/2023,riya.kaur.978@example.com,Bronze,Yes
+C00979,Meera Kaur,Consumer,F,18,06-15-2023,meera.kaur.979@example.com,Silver,1
+C00980,Kavya Kaur,Corporate,M,0,02 Jul 2023,,Bronze,Active
+C00981,Kabir Kaur,Small Business,Other,18,2023-07-19,kabir.kaur.981@example.com,Bronze,Y
+C00982,Anika Kaur,Consumer,F,38,05/08/2023,anika.kaur.982@example.com,Bronze,N
+C00983,Rohan Kaur,Corporate,M,25,08-22-2023,rohan.kaur.983@example.com,Bronze,Yes
+C00984,Tara Kaur,Small Business,Other,52,08 Sep 2023,tara.kaur.984@example.com,Bronze,1
+C00985,Dev Kaur,Consumer,F,23,2023-09-25,dev.kaur.985@example.com,Gold,Active
+C00986,Nisha Kaur,Corporate,M,44,12/10/2023,nisha.kaur.986@example.com,Silver,Y
+C00987,Mira Kaur,Small Business,Other,61,10-29-2023,mira.kaur.987@example.com,Bronze,N
+C00988,Ishita Kaur,Consumer,F,52,15 Nov 2023,ishita.kaur.988@example.com,Gold,Yes
+C00989,Neil Kaur,Corporate,M,36,2023-12-02,neil.kaur.989@example.com,Bronze,1
+C00990,Aditi Kaur,Small Business,Other,61,19/12/2023,aditi.kaur.990@example.com,Silver,Active
+C00991,Aarav Thakur,Consumer,F,42,01-05-2024,,Gold,Y
+C00992,Vivaan Thakur,Corporate,M,62,22 Jan 2024,vivaan.thakur.992@example.com,Silver,N
+C00993,Aditya Thakur,Small Business,Other,53,2024-02-08,aditya.thakur.993@example.com,Bronze,Yes
+C00994,Vihaan Thakur,Consumer,F,39,25/02/2024,vihaan.thakur.994@example.com,Silver,1
+C00995,Arjun Thakur,Corporate,M,70,03-13-2024,arjun.thakur.995@example.com,Bronze,Active
+C00996,Sai Thakur,Small Business,Other,59,30 Mar 2024,sai.thakur.996@example.com,Silver,Y
+C00997,Reyansh Thakur,Consumer,F,48,2024-04-16,reyansh.thakur.997@example.com,Gold,N
+C00998,Ayaan Thakur,Corporate,M,44,03/05/2024,ayaan.thakur.998@example.com,Bronze,Yes
+C00999,Krishna Thakur,Small Business,Other,62,05-20-2024,krishna.thakur.999@example.com,Bronze,1
+C01000,Ishaan Thakur,Consumer,F,60,06 Jun 2024,ishaan.thakur.1000@example.com,Bronze,Active

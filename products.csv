@@ -1,0 +1,201 @@
+product_id,sku,product_name,category,subcategory,brand,uom,standard_unit_cost,list_unit_price,is_active
+P0001,SKU-00001,DailyMart Classic Rice Pack 001,Grocery,Rice & Grains,DailyMart,KG,45.12,74.77,N
+P0002,SKU-00002,DailyMart Classic Cooking Pouch 002,Grocery,Cooking Oils,DailyMart,L,98.43,154.22,Y
+P0003,SKU-00003,FreshSip Classic Beverages Can 003,Grocery,Beverages,FreshSip,BTL,18.33,35.15,Y
+P0004,SKU-00004,SnackHub Classic Snacks Unit 004,Grocery,Snacks,SnackHub,PKT,11.1,29.41,Y
+P0005,SKU-00005,FarmFresh Classic Dairy Roll 005,Grocery,Dairy,FarmFresh,L,47.17,74.78,Y
+P0006,SKU-00006,GlowCare Classic Hair Box 006,Personal Care,Hair Care,GlowCare,BTL,65.0,132.36,Y
+P0007,SKU-00007,GlowCare Classic Skin Bundle 007,Personal Care,Skin Care,GlowCare,PCS,72.06,180.89,Y
+P0008,SKU-00008,SmilePro Classic Oral Set 008,Personal Care,Oral Care,SmilePro,PCS,23.58,68.64,Y
+P0009,SKU-00009,HomeShine Classic Cleaning Case 009,Household,Cleaning,HomeShine,BTL,44.72,121.46,Y
+P0010,SKU-00010,HomeShine Classic Laundry Bottle 010,Household,Laundry,HomeShine,KG,77.75,119.71,Y
+P0011,SKU-00011,TechNova Classic Mobile Refill 011,Electronics,Mobile Accessories,TechNova,PCS,143.68,389.34,Y
+P0012,SKU-00012,TechNova Classic Small Jar 012,Electronics,Small Appliances,TechNova,PCS,507.66,1865.53,Y
+P0013,SKU-00013,WriteWell Classic Writing Combo 013,Stationery,Writing,WriteWell,PCS,4.05,17.43,Y
+P0014,SKU-00014,PaperNest Classic Paper Pack 014,Stationery,Paper Products,PaperNest,PKT,27.18,80.24,Y
+P0015,SKU-00015,PawPal Classic Pet Pouch 015,Pet Supplies,Pet Food,PawPal,KG,122.37,259.93,Y
+P0016,SKU-00016,TinySteps Classic Diapers Can 016,Baby Care,Diapers,TinySteps,PKT,205.34,453.32,Y
+P0017,SKU-00017,DailyMart Premium Rice Unit 017,Grocery,Rice & Grains,DailyMart,KG,35.87,78.57,Y
+P0018,SKU-00018,DailyMart Premium Cooking Roll 018,Grocery,Cooking Oils,DailyMart,L,102.92,153.84,Y
+P0019,SKU-00019,FreshSip Premium Beverages Box 019,Grocery,Beverages,FreshSip,BTL,15.82,35.13,Y
+P0020,SKU-00020,SnackHub Premium Snacks Bundle 020,Grocery,Snacks,SnackHub,PKT,12.28,28.47,N
+P0021,SKU-00021,FarmFresh Premium Dairy Set 021,Grocery,Dairy,FarmFresh,L,36.28,76.05,Y
+P0022,SKU-00022,GlowCare Premium Hair Case 022,Personal Care,Hair Care,GlowCare,BTL,73.15,138.24,Y
+P0023,SKU-00023,GlowCare Premium Skin Bottle 023,Personal Care,Skin Care,GlowCare,PCS,68.45,134.03,Y
+P0024,SKU-00024,SmilePro Premium Oral Refill 024,Personal Care,Oral Care,SmilePro,PCS,25.16,74.33,Y
+P0025,SKU-00025,HomeShine Premium Cleaning Jar 025,Household,Cleaning,HomeShine,BTL,50.94,92.09,Y
+P0026,SKU-00026,HomeShine Premium Laundry Combo 026,Household,Laundry,HomeShine,KG,61.58,142.46,Y
+P0027,SKU-00027,TechNova Premium Mobile Pack 027,Electronics,Mobile Accessories,TechNova,PCS,119.08,482.46,Y
+P0028,SKU-00028,TechNova Premium Small Pouch 028,Electronics,Small Appliances,TechNova,PCS,511.52,1899.13,Y
+P0029,SKU-00029,WriteWell Premium Writing Can 029,Stationery,Writing,WriteWell,PCS,5.74,15.34,Y
+P0030,SKU-00030,PaperNest Premium Paper Unit 030,Stationery,Paper Products,PaperNest,PKT,32.75,98.96,Y
+P0031,SKU-00031,PawPal Premium Pet Roll 031,Pet Supplies,Pet Food,PawPal,KG,115.33,238.17,Y
+P0032,SKU-00032,TinySteps Premium Diapers Box 032,Baby Care,Diapers,TinySteps,PKT,204.62,380.78,Y
+P0033,SKU-00033,DailyMart Everyday Rice Bundle 033,Grocery,Rice & Grains,DailyMart,KG,39.01,73.82,Y
+P0034,SKU-00034,DailyMart Everyday Cooking Set 034,Grocery,Cooking Oils,DailyMart,L,113.4,148.77,Y
+P0035,SKU-00035,FreshSip Everyday Beverages Case 035,Grocery,Beverages,FreshSip,BTL,16.32,41.26,Y
+P0036,SKU-00036,SnackHub Everyday Snacks Bottle 036,Grocery,Snacks,SnackHub,PKT,11.43,31.54,Y
+P0037,SKU-00037,FarmFresh Everyday Dairy Refill 037,Grocery,Dairy,FarmFresh,L,46.72,70.29,Y
+P0038,SKU-00038,GlowCare Everyday Hair Jar 038,Personal Care,Hair Care,GlowCare,BTL,74.57,125.22,Y
+P0039,SKU-00039,GlowCare Everyday Skin Combo 039,Personal Care,Skin Care,GlowCare,PCS,90.77,162.79,N
+P0040,SKU-00040,SmilePro Everyday Oral Pack 040,Personal Care,Oral Care,SmilePro,PCS,31.8,64.77,Y
+P0041,SKU-00041,HomeShine Everyday Cleaning Pouch 041,Household,Cleaning,HomeShine,BTL,46.39,108.87,Y
+P0042,SKU-00042,HomeShine Everyday Laundry Can 042,Household,Laundry,HomeShine,KG,61.45,133.93,Y
+P0043,SKU-00043,TechNova Everyday Mobile Unit 043,Electronics,Mobile Accessories,TechNova,PCS,127.63,426.0,Y
+P0044,SKU-00044,TechNova Everyday Small Roll 044,Electronics,Small Appliances,TechNova,PCS,629.19,2105.16,Y
+P0045,SKU-00045,WriteWell Everyday Writing Box 045,Stationery,Writing,WriteWell,PCS,4.7,15.47,Y
+P0046,SKU-00046,PaperNest Everyday Paper Bundle 046,Stationery,Paper Products,PaperNest,PKT,29.57,94.25,Y
+P0047,SKU-00047,PawPal Everyday Pet Set 047,Pet Supplies,Pet Food,PawPal,KG,102.74,262.52,Y
+P0048,SKU-00048,TinySteps Everyday Diapers Case 048,Baby Care,Diapers,TinySteps,PKT,185.24,441.2,Y
+P0049,SKU-00049,DailyMart Family Rice Bottle 049,Grocery,Rice & Grains,DailyMart,KG,50.49,66.51,Y
+P0050,SKU-00050,DailyMart Family Cooking Refill 050,Grocery,Cooking Oils,DailyMart,L,87.02,172.29,Y
+P0051,SKU-00051,FreshSip Family Beverages Jar 051,Grocery,Beverages,FreshSip,BTL,17.89,32.31,Y
+P0052,SKU-00052,SnackHub Family Snacks Combo 052,Grocery,Snacks,SnackHub,PKT,13.29,28.48,Y
+P0053,SKU-00053,FarmFresh Family Dairy Pack 053,Grocery,Dairy,FarmFresh,L,36.49,72.39,Y
+P0054,SKU-00054,GlowCare Family Hair Pouch 054,Personal Care,Hair Care,GlowCare,BTL,62.85,113.81,Y
+P0055,SKU-00055,GlowCare Family Skin Can 055,Personal Care,Skin Care,GlowCare,PCS,83.07,155.72,Y
+P0056,SKU-00056,SmilePro Family Oral Unit 056,Personal Care,Oral Care,SmilePro,PCS,24.0,58.31,Y
+P0057,SKU-00057,HomeShine Family Cleaning Roll 057,Household,Cleaning,HomeShine,BTL,43.12,102.46,Y
+P0058,SKU-00058,HomeShine Family Laundry Box 058,Household,Laundry,HomeShine,KG,55.96,118.52,N
+P0059,SKU-00059,TechNova Family Mobile Bundle 059,Electronics,Mobile Accessories,TechNova,PCS,127.31,393.7,Y
+P0060,SKU-00060,TechNova Family Small Set 060,Electronics,Small Appliances,TechNova,PCS,698.77,1711.28,Y
+P0061,SKU-00061,WriteWell Family Writing Case 061,Stationery,Writing,WriteWell,PCS,4.42,17.48,Y
+P0062,SKU-00062,PaperNest Family Paper Bottle 062,Stationery,Paper Products,PaperNest,PKT,25.09,90.22,Y
+P0063,SKU-00063,PawPal Family Pet Refill 063,Pet Supplies,Pet Food,PawPal,KG,112.15,207.59,Y
+P0064,SKU-00064,TinySteps Family Diapers Jar 064,Baby Care,Diapers,TinySteps,PKT,164.54,366.7,Y
+P0065,SKU-00065,DailyMart Organic Rice Combo 065,Grocery,Rice & Grains,DailyMart,KG,46.58,62.32,Y
+P0066,SKU-00066,DailyMart Organic Cooking Pack 066,Grocery,Cooking Oils,DailyMart,L,94.04,147.52,Y
+P0067,SKU-00067,FreshSip Organic Beverages Pouch 067,Grocery,Beverages,FreshSip,BTL,17.71,39.96,Y
+P0068,SKU-00068,SnackHub Organic Snacks Can 068,Grocery,Snacks,SnackHub,PKT,14.13,31.47,Y
+P0069,SKU-00069,FarmFresh Organic Dairy Unit 069,Grocery,Dairy,FarmFresh,L,39.19,69.31,Y
+P0070,SKU-00070,GlowCare Organic Hair Roll 070,Personal Care,Hair Care,GlowCare,BTL,56.73,139.94,Y
+P0071,SKU-00071,GlowCare Organic Skin Box 071,Personal Care,Skin Care,GlowCare,PCS,83.22,185.32,Y
+P0072,SKU-00072,SmilePro Organic Oral Bundle 072,Personal Care,Oral Care,SmilePro,PCS,26.31,64.65,Y
+P0073,SKU-00073,HomeShine Organic Cleaning Set 073,Household,Cleaning,HomeShine,BTL,51.9,122.82,Y
+P0074,SKU-00074,HomeShine Organic Laundry Case 074,Household,Laundry,HomeShine,KG,77.95,120.88,Y
+P0075,SKU-00075,TechNova Organic Mobile Bottle 075,Electronics,Mobile Accessories,TechNova,PCS,144.38,415.43,Y
+P0076,SKU-00076,TechNova Organic Small Refill 076,Electronics,Small Appliances,TechNova,PCS,511.34,1596.57,Y
+P0077,SKU-00077,WriteWell Organic Writing Jar 077,Stationery,Writing,WriteWell,PCS,5.61,20.34,N
+P0078,SKU-00078,PaperNest Organic Paper Combo 078,Stationery,Paper Products,PaperNest,PKT,25.6,87.07,Y
+P0079,SKU-00079,PawPal Organic Pet Pack 079,Pet Supplies,Pet Food,PawPal,KG,100.72,191.69,Y
+P0080,SKU-00080,TinySteps Organic Diapers Pouch 080,Baby Care,Diapers,TinySteps,PKT,166.4,405.1,Y
+P0081,SKU-00081,DailyMart Value Rice Can 081,Grocery,Rice & Grains,DailyMart,KG,50.09,64.11,Y
+P0082,SKU-00082,DailyMart Value Cooking Unit 082,Grocery,Cooking Oils,DailyMart,L,102.66,150.04,Y
+P0083,SKU-00083,FreshSip Value Beverages Roll 083,Grocery,Beverages,FreshSip,BTL,15.17,35.73,Y
+P0084,SKU-00084,SnackHub Value Snacks Box 084,Grocery,Snacks,SnackHub,PKT,11.18,27.66,Y
+P0085,SKU-00085,FarmFresh Value Dairy Bundle 085,Grocery,Dairy,FarmFresh,L,36.07,88.94,Y
+P0086,SKU-00086,GlowCare Value Hair Set 086,Personal Care,Hair Care,GlowCare,BTL,58.1,113.68,Y
+P0087,SKU-00087,GlowCare Value Skin Case 087,Personal Care,Skin Care,GlowCare,PCS,76.96,181.63,Y
+P0088,SKU-00088,SmilePro Value Oral Bottle 088,Personal Care,Oral Care,SmilePro,PCS,31.28,63.27,Y
+P0089,SKU-00089,HomeShine Value Cleaning Refill 089,Household,Cleaning,HomeShine,BTL,54.93,114.57,Y
+P0090,SKU-00090,HomeShine Value Laundry Jar 090,Household,Laundry,HomeShine,KG,60.46,130.04,Y
+P0091,SKU-00091,TechNova Value Mobile Combo 091,Electronics,Mobile Accessories,TechNova,PCS,144.96,522.4,Y
+P0092,SKU-00092,TechNova Value Small Pack 092,Electronics,Small Appliances,TechNova,PCS,599.06,1638.82,Y
+P0093,SKU-00093,WriteWell Value Writing Pouch 093,Stationery,Writing,WriteWell,PCS,4.72,19.52,Y
+P0094,SKU-00094,PaperNest Value Paper Can 094,Stationery,Paper Products,PaperNest,PKT,32.02,83.05,Y
+P0095,SKU-00095,PawPal Value Pet Unit 095,Pet Supplies,Pet Food,PawPal,KG,97.72,237.64,Y
+P0096,SKU-00096,TinySteps Value Diapers Roll 096,Baby Care,Diapers,TinySteps,PKT,190.82,374.13,N
+P0097,SKU-00097,DailyMart Fresh Rice Box 097,Grocery,Rice & Grains,DailyMart,KG,37.82,82.31,Y
+P0098,SKU-00098,DailyMart Fresh Cooking Bundle 098,Grocery,Cooking Oils,DailyMart,L,83.22,143.22,Y
+P0099,SKU-00099,FreshSip Fresh Beverages Set 099,Grocery,Beverages,FreshSip,BTL,17.87,35.63,Y
+P0100,SKU-00100,SnackHub Fresh Snacks Case 100,Grocery,Snacks,SnackHub,PKT,10.65,26.2,Y
+P0101,SKU-00101,FarmFresh Fresh Dairy Bottle 101,Grocery,Dairy,FarmFresh,L,46.34,76.45,Y
+P0102,SKU-00102,GlowCare Fresh Hair Refill 102,Personal Care,Hair Care,GlowCare,BTL,66.41,106.47,Y
+P0103,SKU-00103,GlowCare Fresh Skin Jar 103,Personal Care,Skin Care,GlowCare,PCS,65.51,151.28,Y
+P0104,SKU-00104,SmilePro Fresh Oral Combo 104,Personal Care,Oral Care,SmilePro,PCS,31.2,68.63,Y
+P0105,SKU-00105,HomeShine Fresh Cleaning Pack 105,Household,Cleaning,HomeShine,BTL,40.63,104.67,Y
+P0106,SKU-00106,HomeShine Fresh Laundry Pouch 106,Household,Laundry,HomeShine,KG,58.84,141.8,Y
+P0107,SKU-00107,TechNova Fresh Mobile Can 107,Electronics,Mobile Accessories,TechNova,PCS,132.84,488.54,Y
+P0108,SKU-00108,TechNova Fresh Small Unit 108,Electronics,Small Appliances,TechNova,PCS,528.65,1570.26,Y
+P0109,SKU-00109,WriteWell Fresh Writing Roll 109,Stationery,Writing,WriteWell,PCS,5.05,18.07,Y
+P0110,SKU-00110,PaperNest Fresh Paper Box 110,Stationery,Paper Products,PaperNest,PKT,25.11,78.34,Y
+P0111,SKU-00111,PawPal Fresh Pet Bundle 111,Pet Supplies,Pet Food,PawPal,KG,105.09,244.02,Y
+P0112,SKU-00112,TinySteps Fresh Diapers Set 112,Baby Care,Diapers,TinySteps,PKT,156.15,384.04,Y
+P0113,SKU-00113,DailyMart Advanced Rice Case 113,Grocery,Rice & Grains,DailyMart,KG,39.04,86.39,Y
+P0114,SKU-00114,DailyMart Advanced Cooking Bottle 114,Grocery,Cooking Oils,DailyMart,L,102.83,143.93,Y
+P0115,SKU-00115,FreshSip Advanced Beverages Refill 115,Grocery,Beverages,FreshSip,BTL,16.72,33.57,N
+P0116,SKU-00116,SnackHub Advanced Snacks Jar 116,Grocery,Snacks,SnackHub,PKT,10.35,23.96,Y
+P0117,SKU-00117,FarmFresh Advanced Dairy Combo 117,Grocery,Dairy,FarmFresh,L,49.2,78.86,Y
+P0118,SKU-00118,GlowCare Advanced Hair Pack 118,Personal Care,Hair Care,GlowCare,BTL,68.81,149.34,Y
+P0119,SKU-00119,GlowCare Advanced Skin Pouch 119,Personal Care,Skin Care,GlowCare,PCS,76.09,177.95,Y
+P0120,SKU-00120,SmilePro Advanced Oral Can 120,Personal Care,Oral Care,SmilePro,PCS,26.17,75.74,Y
+P0121,SKU-00121,HomeShine Advanced Cleaning Unit 121,Household,Cleaning,HomeShine,BTL,42.42,113.8,Y
+P0122,SKU-00122,HomeShine Advanced Laundry Roll 122,Household,Laundry,HomeShine,KG,70.28,156.38,Y
+P0123,SKU-00123,TechNova Advanced Mobile Box 123,Electronics,Mobile Accessories,TechNova,PCS,112.29,455.21,Y
+P0124,SKU-00124,TechNova Advanced Small Bundle 124,Electronics,Small Appliances,TechNova,PCS,603.45,2126.13,Y
+P0125,SKU-00125,WriteWell Advanced Writing Set 125,Stationery,Writing,WriteWell,PCS,5.7,16.26,Y
+P0126,SKU-00126,PaperNest Advanced Paper Case 126,Stationery,Paper Products,PaperNest,PKT,31.5,74.16,Y
+P0127,SKU-00127,PawPal Advanced Pet Bottle 127,Pet Supplies,Pet Food,PawPal,KG,119.91,252.79,Y
+P0128,SKU-00128,TinySteps Advanced Diapers Refill 128,Baby Care,Diapers,TinySteps,PKT,215.32,445.26,Y
+P0129,SKU-00129,DailyMart Gentle Rice Jar 129,Grocery,Rice & Grains,DailyMart,KG,47.28,71.23,Y
+P0130,SKU-00130,DailyMart Gentle Cooking Combo 130,Grocery,Cooking Oils,DailyMart,L,103.01,124.48,Y
+P0131,SKU-00131,FreshSip Gentle Beverages Pack 131,Grocery,Beverages,FreshSip,BTL,18.42,44.22,Y
+P0132,SKU-00132,SnackHub Gentle Snacks Pouch 132,Grocery,Snacks,SnackHub,PKT,10.76,31.27,Y
+P0133,SKU-00133,FarmFresh Gentle Dairy Can 133,Grocery,Dairy,FarmFresh,L,42.3,70.8,Y
+P0134,SKU-00134,GlowCare Gentle Hair Unit 134,Personal Care,Hair Care,GlowCare,BTL,55.49,144.96,N
+P0135,SKU-00135,GlowCare Gentle Skin Roll 135,Personal Care,Skin Care,GlowCare,PCS,78.07,183.03,Y
+P0136,SKU-00136,SmilePro Gentle Oral Box 136,Personal Care,Oral Care,SmilePro,PCS,26.73,66.35,Y
+P0137,SKU-00137,HomeShine Gentle Cleaning Bundle 137,Household,Cleaning,HomeShine,BTL,44.26,103.87,Y
+P0138,SKU-00138,HomeShine Gentle Laundry Set 138,Household,Laundry,HomeShine,KG,60.97,128.3,Y
+P0139,SKU-00139,TechNova Gentle Mobile Case 139,Electronics,Mobile Accessories,TechNova,PCS,128.59,404.58,Y
+P0140,SKU-00140,TechNova Gentle Small Bottle 140,Electronics,Small Appliances,TechNova,PCS,713.31,1822.74,Y
+P0141,SKU-00141,WriteWell Gentle Writing Refill 141,Stationery,Writing,WriteWell,PCS,5.07,20.83,Y
+P0142,SKU-00142,PaperNest Gentle Paper Jar 142,Stationery,Paper Products,PaperNest,PKT,33.75,74.1,Y
+P0143,SKU-00143,PawPal Gentle Pet Combo 143,Pet Supplies,Pet Food,PawPal,KG,102.95,247.55,Y
+P0144,SKU-00144,TinySteps Gentle Diapers Pack 144,Baby Care,Diapers,TinySteps,PKT,214.78,437.59,Y
+P0145,SKU-00145,DailyMart Plus Rice Pouch 145,Grocery,Rice & Grains,DailyMart,KG,43.34,82.39,Y
+P0146,SKU-00146,DailyMart Plus Cooking Can 146,Grocery,Cooking Oils,DailyMart,L,83.98,166.62,Y
+P0147,SKU-00147,FreshSip Plus Beverages Unit 147,Grocery,Beverages,FreshSip,BTL,18.61,36.87,Y
+P0148,SKU-00148,SnackHub Plus Snacks Roll 148,Grocery,Snacks,SnackHub,PKT,10.69,26.48,Y
+P0149,SKU-00149,FarmFresh Plus Dairy Box 149,Grocery,Dairy,FarmFresh,L,36.53,91.33,Y
+P0150,SKU-00150,GlowCare Plus Hair Bundle 150,Personal Care,Hair Care,GlowCare,BTL,68.42,107.82,Y
+P0151,SKU-00151,GlowCare Plus Skin Set 151,Personal Care,Skin Care,GlowCare,PCS,92.83,172.29,Y
+P0152,SKU-00152,SmilePro Plus Oral Case 152,Personal Care,Oral Care,SmilePro,PCS,25.95,67.79,Y
+P0153,SKU-00153,HomeShine Plus Cleaning Bottle 153,Household,Cleaning,HomeShine,BTL,56.02,90.45,N
+P0154,SKU-00154,HomeShine Plus Laundry Refill 154,Household,Laundry,HomeShine,KG,68.43,145.38,Y
+P0155,SKU-00155,TechNova Plus Mobile Jar 155,Electronics,Mobile Accessories,TechNova,PCS,109.29,518.33,Y
+P0156,SKU-00156,TechNova Plus Small Combo 156,Electronics,Small Appliances,TechNova,PCS,631.95,1532.21,Y
+P0157,SKU-00157,WriteWell Plus Writing Pack 157,Stationery,Writing,WriteWell,PCS,4.3,19.23,Y
+P0158,SKU-00158,PaperNest Plus Paper Pouch 158,Stationery,Paper Products,PaperNest,PKT,32.42,96.26,Y
+P0159,SKU-00159,PawPal Plus Pet Can 159,Pet Supplies,Pet Food,PawPal,KG,86.16,230.5,Y
+P0160,SKU-00160,TinySteps Plus Diapers Unit 160,Baby Care,Diapers,TinySteps,PKT,153.94,417.76,Y
+P0161,SKU-00161,DailyMart Select Rice Roll 161,Grocery,Rice & Grains,DailyMart,KG,44.69,64.81,Y
+P0162,SKU-00162,DailyMart Select Cooking Box 162,Grocery,Cooking Oils,DailyMart,L,85.16,164.69,Y
+P0163,SKU-00163,FreshSip Select Beverages Bundle 163,Grocery,Beverages,FreshSip,BTL,17.51,44.86,Y
+P0164,SKU-00164,SnackHub Select Snacks Set 164,Grocery,Snacks,SnackHub,PKT,14.33,29.83,Y
+P0165,SKU-00165,FarmFresh Select Dairy Case 165,Grocery,Dairy,FarmFresh,L,37.87,83.87,Y
+P0166,SKU-00166,GlowCare Select Hair Bottle 166,Personal Care,Hair Care,GlowCare,BTL,64.76,145.41,Y
+P0167,SKU-00167,GlowCare Select Skin Refill 167,Personal Care,Skin Care,GlowCare,PCS,84.57,166.33,Y
+P0168,SKU-00168,SmilePro Select Oral Jar 168,Personal Care,Oral Care,SmilePro,PCS,23.64,60.67,Y
+P0169,SKU-00169,HomeShine Select Cleaning Combo 169,Household,Cleaning,HomeShine,BTL,57.15,99.63,Y
+P0170,SKU-00170,HomeShine Select Laundry Pack 170,Household,Laundry,HomeShine,KG,58.68,123.31,Y
+P0171,SKU-00171,TechNova Select Mobile Pouch 171,Electronics,Mobile Accessories,TechNova,PCS,131.6,394.71,Y
+P0172,SKU-00172,TechNova Select Small Can 172,Electronics,Small Appliances,TechNova,PCS,541.63,1648.06,N
+P0173,SKU-00173,WriteWell Select Writing Unit 173,Stationery,Writing,WriteWell,PCS,5.28,18.0,Y
+P0174,SKU-00174,PaperNest Select Paper Roll 174,Stationery,Paper Products,PaperNest,PKT,29.69,101.74,Y
+P0175,SKU-00175,PawPal Select Pet Box 175,Pet Supplies,Pet Food,PawPal,KG,85.2,259.39,Y
+P0176,SKU-00176,TinySteps Select Diapers Bundle 176,Baby Care,Diapers,TinySteps,PKT,156.22,464.66,Y
+P0177,SKU-00177,DailyMart Max Rice Set 177,Grocery,Rice & Grains,DailyMart,KG,50.4,61.9,Y
+P0178,SKU-00178,DailyMart Max Cooking Case 178,Grocery,Cooking Oils,DailyMart,L,80.41,132.95,Y
+P0179,SKU-00179,FreshSip Max Beverages Bottle 179,Grocery,Beverages,FreshSip,BTL,18.04,35.35,Y
+P0180,SKU-00180,SnackHub Max Snacks Refill 180,Grocery,Snacks,SnackHub,PKT,12.36,26.71,Y
+P0181,SKU-00181,FarmFresh Max Dairy Jar 181,Grocery,Dairy,FarmFresh,L,40.28,93.35,Y
+P0182,SKU-00182,GlowCare Max Hair Combo 182,Personal Care,Hair Care,GlowCare,BTL,72.14,142.44,Y
+P0183,SKU-00183,GlowCare Max Skin Pack 183,Personal Care,Skin Care,GlowCare,PCS,84.93,162.32,Y
+P0184,SKU-00184,SmilePro Max Oral Pouch 184,Personal Care,Oral Care,SmilePro,PCS,31.88,64.78,Y
+P0185,SKU-00185,HomeShine Max Cleaning Can 185,Household,Cleaning,HomeShine,BTL,55.4,107.67,Y
+P0186,SKU-00186,HomeShine Max Laundry Unit 186,Household,Laundry,HomeShine,KG,59.72,137.99,Y
+P0187,SKU-00187,TechNova Max Mobile Roll 187,Electronics,Mobile Accessories,TechNova,PCS,100.36,439.79,Y
+P0188,SKU-00188,TechNova Max Small Box 188,Electronics,Small Appliances,TechNova,PCS,524.07,1631.24,Y
+P0189,SKU-00189,WriteWell Max Writing Bundle 189,Stationery,Writing,WriteWell,PCS,5.78,20.17,Y
+P0190,SKU-00190,PaperNest Max Paper Set 190,Stationery,Paper Products,PaperNest,PKT,27.14,81.91,Y
+P0191,SKU-00191,PawPal Max Pet Case 191,Pet Supplies,Pet Food,PawPal,KG,98.5,196.86,N
+P0192,SKU-00192,TinySteps Max Diapers Bottle 192,Baby Care,Diapers,TinySteps,PKT,163.95,484.42,Y
+P0193,SKU-00193,DailyMart Smart Rice Refill 193,Grocery,Rice & Grains,DailyMart,KG,39.85,76.01,Y
+P0194,SKU-00194,DailyMart Smart Cooking Jar 194,Grocery,Cooking Oils,DailyMart,L,91.93,141.81,Y
+P0195,SKU-00195,FreshSip Smart Beverages Combo 195,Grocery,Beverages,FreshSip,BTL,20.77,43.88,Y
+P0196,SKU-00196,SnackHub Smart Snacks Pack 196,Grocery,Snacks,SnackHub,PKT,14.1,28.68,Y
+P0197,SKU-00197,FarmFresh Smart Dairy Pouch 197,Grocery,Dairy,FarmFresh,L,38.55,82.05,Y
+P0198,SKU-00198,GlowCare Smart Hair Can 198,Personal Care,Hair Care,GlowCare,BTL,65.94,136.13,Y
+P0199,SKU-00199,GlowCare Smart Skin Unit 199,Personal Care,Skin Care,GlowCare,PCS,81.93,131.88,Y
+P0200,SKU-00200,SmilePro Smart Oral Roll 200,Personal Care,Oral Care,SmilePro,PCS,24.8,65.62,Y

@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,store_type,open_date,manager_id
+S001,Store 001,MUMBAI,,,Mall,01/01/2017,MGR001
+S002,Store 002,Pune,MH,West,Outlet,03-25-2017,MGR002
+S003,Store 003,Nagpur,MH,West,High Street,16 Jun 2017,MGR003
+S004,Store 004,Delhi,DL,North,Warehouse,2017-09-07,MGR004
+S005,Store 005,Jaipur,RJ,North,Mall,29/11/2017,MGR005
+S006,Store 006,Lucknow,UP,North,Outlet,02-20-2018,MGR006
+S007,Store 007,Bengaluru,KA,South,High Street,14 May 2018,MGR007
+S008,Store 008,CHENNAI,TN,South,Warehouse,2018-08-05,MGR008
+S009,Store 009,Hyderabad,TS,south,Mall,27/10/2018,MGR009
+S010,Store 010,kolkata,WB,East,Outlet,01-18-2019,MGR010
+S011,Store 011,Bhubaneswar,OD,East,High Street,11 Apr 2019,MGR011
+S012,Store 012,Ahmedabad,GJ,West,Warehouse,2019-07-03,MGR012
+S013,Store 013,Surat,GJ,,Mall,24/09/2019,MGR013
+S014,Store 014,Indore,MP,Central,Outlet,12-16-2019,MGR014
+S015,Store 015,BHOPAL,,Central,High Street,08 Mar 2020,MGR015
+S016,Store 016,Mumbai,MH,West,Warehouse,2020-05-30,MGR016
+S017,Store 017,Pune,MH,west,Mall,21/08/2020,MGR017
+S018,Store 018,Nagpur,MH,West,Outlet,11-12-2020,MGR018
+S019,Store 019,delhi,DL,North,High Street,03 Feb 2021,MGR019
+S020,Store 020,Jaipur,RJ,North,Warehouse,2021-04-27,MGR020
+S021,Store 021,Lucknow,UP,North,Mall,19/07/2021,MGR021
+S022,Store 022,BENGALURU,KA,South,Outlet,10-10-2021,MGR022
+S023,Store 023,Chennai,TN,South,High Street,01 Jan 2022,MGR023
+S024,Store 024,Hyderabad,TS,South,Warehouse,2022-03-25,MGR024
+S025,Store 025,Kolkata,WB,,Mall,16/06/2022,MGR025
+S026,Store 026,Bhubaneswar,OD,East,Outlet,09-07-2022,MGR026
+S027,Store 027,Ahmedabad,GJ,West,High Street,29 Nov 2022,MGR027
+S028,Store 028,surat,GJ,West,Warehouse,2023-02-20,MGR028
+S029,Store 029,INDORE,,Central,Mall,14/05/2023,MGR029
+S030,Store 030,Bhopal,MP,Central,Outlet,08-05-2023,MGR030
+S031,Store 031,Mumbai,MH,West,High Street,27 Oct 2023,MGR031
+S032,Store 032,Pune,MH,West,Warehouse,2024-01-18,MGR032
+S033,Store 033,Nagpur,MH,west,Mall,10/04/2024,MGR033
+S034,Store 034,Delhi,DL,North,Outlet,07-02-2024,MGR034
+S035,Store 035,Jaipur,RJ,North,High Street,23 Sep 2024,MGR035
+S036,Store 036,LUCKNOW,UP,North,Warehouse,2024-12-15,MGR036
+S037,Store 037,bengaluru,KA,,Mall,08/03/2025,MGR037
+S038,Store 038,Chennai,TN,South,Outlet,03-13-2017,MGR038
+S039,Store 039,Hyderabad,TS,South,High Street,04 Jun 2017,MGR039
+S040,Store 040,Kolkata,WB,East,Warehouse,2017-08-26,MGR040
+S041,Store 041,Bhubaneswar,OD,east,Mall,17/11/2017,MGR041
+S042,Store 042,Ahmedabad,GJ,West,Outlet,02-08-2018,MGR042
+S043,Store 043,SURAT,,West,High Street,02 May 2018,MGR043
+S044,Store 044,Indore,MP,Central,Warehouse,2018-07-24,MGR044
+S045,Store 045,Bhopal,MP,Central,Mall,15/10/2018,MGR045
+S046,Store 046,mumbai,MH,West,Outlet,01-06-2019,MGR046
+S047,Store 047,Pune,MH,West,High Street,30 Mar 2019,MGR047
+S048,Store 048,Nagpur,MH,West,Warehouse,2019-06-21,MGR048
+S049,Store 049,Delhi,DL,,Mall,12/09/2019,MGR049
+S050,Store 050,JAIPUR,RJ,North,Outlet,12-04-2019,MGR050
